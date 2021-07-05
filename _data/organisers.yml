@@ -1,0 +1,13 @@
+- 
+  group: "Organisers"
+  elements: 
+    - {name: "UNSW", link: "http://www.unsw.edu.au"}
+    - {name: "University of Sydney", link: "http://www.usyd.edu.au"}
+    - {name: "University of Technology Sydney", link: "http://www.uts.edu.au", imageUrl: "uts_logo.png"}
+    - {name: "ARDC", link: "http://www.ardc.edu.au"}
+-
+  group: "Sponsors"
+  elements: 
+    - {name: "Sponsor1", description: "Sponsor 1 Description", link: "http://sponsor1.org"}
+    - {name: "Sponsor2", description: "Sponsor 2 Description", link: "http://sponsor2.com"}
+    - {name: "Sponsor3", description: "Sponsor 3 Description", link: "http://sponsor3.com.au"}

@@ -1,0 +1,25 @@
+<!-- Begin Organisers Section -->
+<section id="partners" class="partners">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.organisersTitle }}</h3>
+            {% for organiser in site.data.organisers %}
+            <h5>{{ organiser.group }}</h5>
+            <ul class="list-inline">
+                {% for element in organiser.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        {% if element.imageUrl %}
+                        <img src="{{ site.baseurl }}/img/organisers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}"><br />
+                        {% endif %}
+                        {{ element.name }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+        </div>
+    </div> 
+</section>
+<!-- End Organisers Section -->
+

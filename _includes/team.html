@@ -1,0 +1,19 @@
+<!-- Begin Team List-->
+<section id="team" class="team">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.teamBlockTitle }}</h3>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
+
+            {% for team in site.data.team %}
+            <h5>{{ team.group }}</h5>
+            <p>
+            {% for element in team.elements %}
+            {{ element.affiliation }} | {{ element.name }}<br />
+            {% endfor %}
+            </p>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Team List -->

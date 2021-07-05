@@ -1,0 +1,54 @@
+-
+  id: 101
+  title: "Keystory"
+  subtype: presentation
+  speakers: []
+  language: en
+-
+  id: 102
+  title: "Mini break"
+  subtype: break
+  speakers: []
+  language: en
+-
+  id: 103
+  title: "Workshops"
+  subtype: workshop
+  speakers: []
+  language: en
+-
+  id: 104
+  title: "Lunch"
+  subtype: break
+  speakers: []
+  language: en
+-
+  id: 105
+  title: "Talks and demos"
+  subtype: presentation
+  speakers: []
+  language: en
+-
+  id: 106
+  title: "Mini break"
+  subtype: break
+  speakers: []
+  language: en
+-
+  id: 107
+  title: "Talks and demos"
+  subtype: presentation
+  speakers: []
+  language: en
+-
+  id: 108
+  title: "Mini break"
+  subtype: break
+  speakers: []
+  language: en
+-
+  id: 109
+  title: "Hacky half hour!"
+  subtype: workshop
+  speakers: []
+  language: en

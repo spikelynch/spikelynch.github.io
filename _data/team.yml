@@ -1,0 +1,10 @@
+- 
+  group: "ResBaz Sydney 2021 Organising Committee"
+  elements: 
+    - {affiliation: "UNSW Library", name: "Jane Smith"}
+    - {affiliation: "Australian Research Data Commons", name: "John Doe"}
+-
+  group: "ResBaz Sydney 2021 Helpers"
+  elements: 
+    - {affiliation: "UTS eResearch Support", name: "F Roe"}
+    - {affiliation: "Unversity of Sydney Library", name: "R Mutt"}

@@ -1,0 +1,55 @@
+- 
+  date: "2021-11-22"
+  dateReadable: "Draft daily schedule"
+  tracks: 
+    - {title: "Programming 1",                color: "#dbc83f"}
+    - {title: "Programming 2",                color: "#dbc83f"}
+    - {title: "Compute",                      color: "#db8f3f"}
+    - {title: "Humanities & Social Sciences", color: "#2b7189"}
+    - {title: "Survey & Data Collection",     color: "#583595"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime:   "9:50",
+    	sessionIds: [101]
+    }
+    - {
+      startTime: "9:50",
+      endTime:   "10:00",
+      sessionIds: [102]
+    }
+    - {
+      startTime: "10:00",
+      endTime:   "12:30",
+      sessionIds: [103]
+    }
+    - {
+      startTime: "12:30",
+      endTime:   "13:00",
+      sessionIds: [104]
+    }
+    - {
+      startTime: "13:00",
+      endTime:   "13:50",
+      sessionIds: [105]
+    }
+    - {
+      startTime: "13:50",
+      endTime: "14:00",
+      sessionIds: [106]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "14:50",
+      sessionIds: [107]
+    }
+    - {
+      startTime: "14:50",
+      endTime: "15:00",
+      sessionIds: [108]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "15:30",
+      sessionIds: [109]
+    }

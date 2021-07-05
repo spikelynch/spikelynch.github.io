@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/resbaz/blog/hello-world</loc>
+<lastmod>2021-06-20T18:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/resbaz/blog/another-post</loc>
+<lastmod>2021-06-21T19:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/resbaz/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resbaz/code/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resbaz/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resbaz/logistics/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resbaz/schedule/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resbaz/speakers/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resbaz/team/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resbaz/assets/GDG_DevFest_Partnership.pdf</loc>
+<lastmod>2021-06-07T11:02:52+10:00</lastmod>
+</url>
+</urlset>
