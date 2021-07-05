@@ -62,7 +62,7 @@ heroButtons:
 # About Block
 aboutTitle: "About ResBaz"
 aboutBlock:
- - {title: "Conference",image: "resbaz_logo.png", text: "Sydney's Research Bazaar is a free, 4 day online festival and conference where researchers come together to up-skill in next generation digital research tools and scholarship. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun." }
+ - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2021 will be a multi stream online event 23-26 November 2021. The program will feature key stories (like keynotes, but with a narrative!), workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Our program has dedicated streams for Compute, Humanities and Social Science, and Survey / Data Collection, as well as two streams for introductory programming skills, which are open to all, regardless of skill level or discipline. Lots of breaks, lots of opportunities to find your people across institutions and disciplines, and plenty of neat tricks and hacks to level up on your nerd skills." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
