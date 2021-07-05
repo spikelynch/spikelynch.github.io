@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "ResBaz Sydney 2021"
 email: "resbaz@sydney.resbaz.com.au"
 description: "A conference promoting digital literacy and skill-sharing for researchers"
-baseurl: "/resbaz"
+baseurl: ""
 url: "https://sydney.resbaz.com.au"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "xxxxxxxx"
@@ -46,7 +46,6 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/code/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {link: "/sponsor/", text: "Become a sponsor"}

@@ -27,10 +27,13 @@
 <loc>http://localhost:4000/resbaz/speakers/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/resbaz/sponsor/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/resbaz/team/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/resbaz/assets/GDG_DevFest_Partnership.pdf</loc>
-<lastmod>2021-06-07T11:02:52+10:00</lastmod>
+<lastmod>2021-07-06T08:35:00+10:00</lastmod>
 </url>
 </urlset>
