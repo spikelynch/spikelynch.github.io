@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "ResBaz Sydney 2021"
-email: "resbaz@sydney.resbaz.com.au"
+email: "resbazsydney@googlegroups.com"
 description: "A conference promoting digital literacy and skill-sharing for researchers"
 baseurl: ""
 url: "https://sydney.resbaz.com.au"
@@ -68,7 +68,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of researher trailing"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of researcher trailing"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus HPC day"}
 
