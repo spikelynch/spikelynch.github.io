@@ -15,7 +15,7 @@ email: "resbazsydney@googlegroups.com"
 description: "A conference promoting digital literacy and skill-sharing for researchers"
 baseurl: ""
 url: "https://sydney.resbaz.com.au"
-permalink: "/blog/:title"
+permalink: "/news/:title"
 googleAnalyticsTrackingId: "xxxxxxxx"
 googleAnalyticsSiteUrl: "sydney.resbaz.com.au"
 siteVerification: "xxxxxxx"
@@ -43,7 +43,8 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/about/", text: "About"}
+ - {permalink: "/news/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/code/", text: "Code of Conduct"}
@@ -67,10 +68,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of researcher trailing"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus HPC day"}
+ - {count: "50", specialCharacter: "+", info: "hours", detail: "of researcher training"}
+ - {count: "5", specialCharacter: "", info: "parallel tracks"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -108,7 +107,7 @@ twitterHashTag: "resbazsyd"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organisersTitle: "Organizers"
+organisersTitle: "Organisers"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
@@ -177,7 +176,7 @@ blogTitle: "Latest news"
 blogCommentsEnabled: false
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "Volunteers"

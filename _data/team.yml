@@ -1,10 +1,56 @@
 - 
-  group: "ResBaz Sydney 2021 Organising Committee"
-  elements: 
-    - {affiliation: "UNSW Library", name: "Jane Smith"}
-    - {affiliation: "Australian Research Data Commons", name: "John Doe"}
--
-  group: "ResBaz Sydney 2021 Helpers"
-  elements: 
-    - {affiliation: "UTS eResearch Support", name: "F Roe"}
-    - {affiliation: "Unversity of Sydney Library", name: "R Mutt"}
+  id: 0
+  name: "Phillippa"
+  surname: "Bourke"
+  title: "University of Sydney"
+  thumbnailUrl: AvatarPlaceholder.png
+  team: true
+- 
+  id: 1
+  name: "Jacky"
+  surname: "Cho"
+  title: "UNSW Sydney"
+  thumbnailUrl: JackyCho.jpg
+  team: true
+- 
+  id: 2
+  name: "Avril"
+  surname: "Clarkson"
+  title: "UNSW Sydney"
+  thumbnailUrl: AvrilClarkson.jpg
+  team: true
+- 
+  id: 3
+  name: "Doris"
+  surname: "Harrison"
+  title: "UNSW Sydney"
+  thumbnailUrl: DorisHarrison.jpg
+  team: true
+- 
+  id: 4
+  name: "Andreas"
+  surname: "Mertin"
+  title: "University of Technology Sydney"
+  thumbnailUrl: AvatarPlaceholder.png
+  team: true
+- 
+  id: 5
+  name: "Anastasios"
+  surname: "Papaioannou"
+  title: "Intersect"
+  thumbnailUrl: AvatarPlaceholder.png
+  team: true
+- 
+  id: 6
+  name: "Liz"
+  surname: "Stokes"
+  title: "Australian Research Data Commons"
+  thumbnailUrl: AvatarPlaceholder.png
+  team: true
+- 
+  id: 7
+  name: "Katrina"
+  surname: "Trewin"
+  title: "Western Sydney University"
+  thumbnailUrl: AvatarPlaceholder.png
+  team: true
