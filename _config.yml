@@ -24,13 +24,13 @@ siteVerification: "xxxxxxx"
 organizerName: "ResBaz Sydney"
 organizerAlternateName: "ResBaz Sydney"
 organizerDescription: "The organisers of ResBaz Sydney"
-organizerEmail: "resbaz@sydney.resbaz.com.au"
+organizerEmail: "resbazsyd@gmail.com"
 organizerLogo: "/img/seo/ResBaz_transparent_cropped.png"
 organizerLink: "http://sydney.resbaz.com.au/"
 
 # Head
 metaKeywords: "event, research, library, digital, skills, eresearch"
-twitterAccount: "@ResBazSydney2021"
+twitterAccount: "ResBazSyd"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -49,21 +49,21 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/code/", text: "Code of Conduct"}
 bottomNavigationLinks:
- - {link: "/sponsor/", text: "Become a sponsor"}
+ - {link: "/getinvolved/", text: "Get involved"}
 rightNavigationButtons:
- - {link: "/sponsor/", text: "Become a sponsor"}
+ - {link: "/getinvolved/", text: "Get involved"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "ResBaz Sydney 2021"
-eventDate: "November 22-25 2021"
+eventDate: "Tue 23-Fri 26 November 2021"
 heroButtons:
- - {permalink: "/sponsor/", text: "Become a sponsor"}
+ - {permalink: "/getinvolved/", text: "Get involved"}
 
 # About Block
 aboutTitle: "About ResBaz"
 aboutBlock:
- - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2021 will be a multi stream online event 23-26 November 2021. The program will feature key stories (like keynotes, but with a narrative!), workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Our program has dedicated streams for Compute, Humanities and Social Science, and Survey / Data Collection, as well as two streams for introductory programming skills, which are open to all, regardless of skill level or discipline. Lots of breaks, lots of opportunities to find your people across institutions and disciplines, and plenty of neat tricks and hacks to level up on your nerd skills." }
+ - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2021 will be a multi stream online event Tuesday 23-Friday 26 November 2021. The program will feature key stories (like keynotes, but with a narrative!), workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Our program has dedicated streams for Compute, Humanities and Social Science, and Survey / Data Collection, as well as two streams for introductory programming skills, which are open to all, regardless of skill level or discipline. Lots of breaks, lots of opportunities to find your people across institutions and disciplines, and plenty of neat tricks and hacks to level up on your nerd skills." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -75,91 +75,20 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 
-# Location Block
-# locationBlockTitle: "Location"
-# eventLocationName: "Conference Hall"
-# eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-# eventStreetAddress: "22 Teatral'na St"
-# eventAddressLocality: "Lviv"
-# eventAddressLocalityRegion: "Lvivska"
-# eventPostalCode: "79000"
-# eventAddressCountry: "Ukraine"
-# eventStartTime: "2014-10-25T10:00"
-# eventDoorTime: "09:00"
-# eventEndTime: "2014-10-25T20:00"
-# eventPlaceCoordinates: "49.843237, 24.028751"
-# mapCenterCoordinates: "49.842537, 24.025701"
-# mapMobileCenterCoordinates: "49.841620, 24.029411"
-
-# Venue Block
-# venueBlockTitle: "Venue"
-# venueBigImage: "venue_0.jpg"
-# venueSmallImage1: "venue_1.jpg"
-# venueSmallImage2: "venue_2.jpg"
-# venueSmallImage3: "venue_3.jpg"
-# venueTitle: "Kinopalace Cinema"
-# venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Twitter"
 twitterHashTag: "resbazsyd"
-# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "http://twitter.com/ResBazSyd"
 
 # Partners Block
 organisersTitle: "Organisers"
 
-# Subscribe Block
-# subscribeImage: "subscribe.jpg"
-# subscribeTitle: "Subscribe for updates"
-# subscribeAction: "https://blahblah/"
-# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-
-# Tickets Block
-# ticketsTitle: "Pricetable"
-# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-# ticketsOffers:
-#  -
-#   name: "Early Bird"
-#   price: "350"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "150"
-#   ribbon: "-5%"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-08-25T10:00"
-#   validThrough: "2014-09-30T23:59"
-#  -
-#   name: "Last Chance"
-#   price: "450"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "100"
-#   ribbon: "-20%"
-#   featured: true
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-10-01T00:00"
-#   validThrough: "2014-10-23T23:59"
-#   disabled: true
-#  -
-#   name: "Student"
-#   price: "200"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "50"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-08-20T10:00"
-#   validThrough: "2014-10-23T23:59"
-#   soldOut: true
-#   soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/ResbazS", icon: "twitter"}
+ - {link: "https://twitter.com/ResBazSyd", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
