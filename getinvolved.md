@@ -2,16 +2,24 @@
 layout: post
 title: Get involved
 permalink: /getinvolved/
+image: mac2018_hall.jpg
 isStaticPost: true
 ---
 #### Become a speaker
 
-Information for keystory presenters
+Do you have a story to tell? Would you like to share how digital tools have positively impacted your research? We are looking for speakers of all disciplines to share lessons learnt and tips on how to enhance and accelerate your research.
+
+If you are interested, email us at [mailto:resbazsyd@gmail.com](resbazsyd@gmail.com)
+
 
 #### Run a workshop
+
+
 
 Information on how to volunteer for running or helping with a workshop
 
 #### Become a partner
+
+If your organisation is interested in becoming a ResBaz partner, email us at [mailto:resbazsyd@gmail.com](resbazsyd@gmail.com)
 
 Information on how an organisation can become a ResBaz partner

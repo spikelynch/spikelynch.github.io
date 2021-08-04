@@ -2,6 +2,7 @@
 layout: post
 title: Research Bazaar Policies and Code of Conduct
 permalink: /code/
+image: audience.jpg
 isStaticPost: true
 ---
 

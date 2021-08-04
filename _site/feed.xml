@@ -7,21 +7,12 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Another Post</title>
-        <description>&lt;p&gt;Here is another post!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 Jun 2021 19:00:00 +1000</pubDate>
-        <link>http://localhost:4000/news/another-post</link>
-        <guid isPermaLink="true">http://localhost:4000/news/another-post</guid>
-      </item>
-    
-      <item>
-        <title>Hello World</title>
-        <description>&lt;p&gt;This is the first post on the draft ResBaz Sydney 2021 website&lt;/p&gt;
+        <title>ResBaz Sydney 2021</title>
+        <description>&lt;p&gt;And we’re live! Despite the current lockdown, the team at ResBaz Sydney are very excited to be announcing our intentions to host a virtual ResBaz at the end of this year. Right now, we’re working on our program structure to make sure we retain the best of ResBaz community while running a virtual event. We’ve had a year of ‘pivoting online’ and ‘you’re on mute’ so honestly, the only way is up. Once our social infrastructure is confirmed, we’ll be putting out the word for volunteers to join in the fun. Submit a talk, offer to run a workshop, host a discussion panel or join us as a ResBazador!&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Jun 2021 18:00:00 +1000</pubDate>
-        <link>http://localhost:4000/news/hello-world</link>
-        <guid isPermaLink="true">http://localhost:4000/news/hello-world</guid>
+        <link>http://localhost:4000/news/live</link>
+        <guid isPermaLink="true">http://localhost:4000/news/live</guid>
       </item>
     
   </channel>
