@@ -14,12 +14,12 @@ If you are interested, email us at [mailto:resbazsyd@gmail.com](resbazsyd@gmail.
 
 #### Run a workshop
 
+If you are interested in running a workshop, please email us at [mailto:resbazsyd@gmail.com](resbazsyd@gmail.com)
 
+For examples of the sorts of workshops ResBaz offers, here is a [list of workshops and presentations at ResBaz Sydney 2019](https://research.unsw.edu.au/resbaz-sydney)
 
 Information on how to volunteer for running or helping with a workshop
 
 #### Become a partner
 
-If your organisation is interested in becoming a ResBaz partner, email us at [mailto:resbazsyd@gmail.com](resbazsyd@gmail.com)
-
-Information on how an organisation can become a ResBaz partner
+If your organisation is interested in becoming a ResBaz partner, please email us at [mailto:resbazsyd@gmail.com](resbazsyd@gmail.com)
