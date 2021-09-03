@@ -57,14 +57,14 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "ResBaz Sydney 2021"
-eventDate: "Tue 23-Fri 26 November 2021"
+eventDate: "Tue 23-Thu 25 November 2021"
 heroButtons:
  - {permalink: "/getinvolved/", text: "Get involved"}
 
 # About Block
 aboutTitle: "About ResBaz"
 aboutBlock:
- - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2021 will be a multi stream online event Tuesday 23-Friday 26 November 2021. The program will feature key stories (like keynotes, but with a narrative!), workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Our program has dedicated streams for Compute, Humanities and Social Science, and Survey / Data Collection, as well as two streams for introductory programming skills, which are open to all, regardless of skill level or discipline. Lots of breaks, lots of opportunities to find your people across institutions and disciplines, and plenty of neat tricks and hacks to level up on your nerd skills." }
+ - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2021 will be a multi stream online event Tuesday 23-Thursday 25 November 2021. The program will feature key stories (like keynotes, but with a narrative!), workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Our program has dedicated streams for Compute, Humanities and Social Science, and Survey / Data Collection, as well as two streams for introductory programming skills, which are open to all, regardless of skill level or discipline. Lots of breaks, lots of opportunities to find your people across institutions and disciplines, and plenty of neat tricks and hacks to level up on your nerd skills." }
 
 # Statistic Block
 statisticBlockImage: "mac2018_hall2.jpg"
