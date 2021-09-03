@@ -2,6 +2,7 @@
 layout: post
 title: Get involved
 permalink: /getinvolved/
+image: mac2018_hall.jpg
 isStaticPost: true
 ---
 #### What's this all about?

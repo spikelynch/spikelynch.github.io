@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "ResBaz Sydney 2021"
-email: "resbazsydney@googlegroups.com"
+email: "resbazsyd@gmail.com"
 description: "A conference promoting digital literacy and skill-sharing for researchers"
-baseurl: ""
-url: "https://sydney.resbaz.com.au"
+baseurl: "/resbaz2021/sydney"
+url: "https://resbaz.github.io"
 permalink: "/news/:title"
 googleAnalyticsTrackingId: "xxxxxxxx"
 googleAnalyticsSiteUrl: "sydney.resbaz.com.au"
@@ -26,7 +26,7 @@ organizerAlternateName: "ResBaz Sydney"
 organizerDescription: "The organisers of ResBaz Sydney"
 organizerEmail: "resbazsyd@gmail.com"
 organizerLogo: "/img/seo/ResBaz_transparent_cropped.png"
-organizerLink: "http://sydney.resbaz.com.au/"
+organizerLink: "https://resbaz.github.io/resbaz2021/sydney"
 
 # Head
 metaKeywords: "event, research, library, digital, skills, eresearch"
@@ -45,8 +45,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/news/", text: "News"}
+ - {permalink: "/getinvolved/", text: "Get involved"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/code/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {link: "/getinvolved/", text: "Get involved"}
@@ -66,7 +67,7 @@ aboutBlock:
  - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2021 will be a multi stream online event Tuesday 23-Friday 26 November 2021. The program will feature key stories (like keynotes, but with a narrative!), workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Our program has dedicated streams for Compute, Humanities and Social Science, and Survey / Data Collection, as well as two streams for introductory programming skills, which are open to all, regardless of skill level or discipline. Lots of breaks, lots of opportunities to find your people across institutions and disciplines, and plenty of neat tricks and hacks to level up on your nerd skills." }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "mac2018_hall2.jpg"
 statisticBlock:
  - {count: "50", specialCharacter: "+", info: "hours", detail: "of researcher training"}
  - {count: "5", specialCharacter: "", info: "parallel tracks"}
@@ -75,9 +76,16 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 
+# Past events Block
+pastBlockTitle: "ResBaz 2019"
+pastBigImage: audience.jpg 
+pastSmallImage1: genomics.jpg
+pastSmallImage2: jasper.jpg
+pastSmallImage3: carpentries.jpg
+
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "nametags.jpg"
 tweetsFeedTitle: "Twitter"
 twitterHashTag: "resbazsyd"
 twitterFeed: "http://twitter.com/ResBazSyd"
@@ -94,7 +102,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:resbaz@sydney.resbaz.com.au", text: "resbaz@sydney.resbaz.com.au"}
+   - {link: "mailto:resbazsyd@gmail.com", text: "resbazsyd@gmail.com"}
  -
   title: "Code of Conduct"
   links:
