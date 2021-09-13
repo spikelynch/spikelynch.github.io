@@ -50,9 +50,9 @@ navigationLinks:
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/code/", text: "Code of Conduct"}
 bottomNavigationLinks:
- - {link: "/getinvolved/", text: "Get involved"}
+ - {permalink: "/getinvolved/", text: "Get involved"}
 rightNavigationButtons:
- - {link: "/getinvolved/", text: "Get involved"}
+ - {permalink: "/getinvolved/", text: "Get involved"}
 
 # Hero Block
 heroImage: "hero.jpg"
