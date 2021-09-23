@@ -1,58 +1,102 @@
 -
   id: 101
-  title: "Keystory"
+  title: "Welcome to country + orientation"
   subtype: presentation
   speakers: []
-  language: en
 -
   id: 102
-  title: "Mini break"
-  subtype: break
+  title: "Key Story 1"
+  subtype: presentation
   speakers: []
+-
+  id: 111
+  title: "Learn to Program: Python"
+  subtype: workshop
+  assistants: [ 'jianzhou', 'andrew']
+-
+  id: 121
+  title: "Learn to Program: R"
+  speakers: [ 'belindafabian']
+  assistants: [ 'marium', 'jerry' ]
+-
+  id: 1311
+  title: "Compute presentation 1"
+  subtype: presentation
+-
+  id: 1312
+  title: "Short break"
+  subtype: break
   service: true
-  language: en
+-
+  id: 1313
+  title: "Compute presentation 2"
+  subtype: presentation
+-
+  id: 141
+  title: "JupyterLab, Intro to Cloudstor"
+  subtype: presentation
+  speakers: [ 'sarahking']
+-
+  id: 151
+  title: "Data Capture and Surveys with REDCap"
+  subtype: presentation
+  speakers: [ 'davidjung' ]
+  assistants: [ 'aidanwilson', 'weisichen' ]
 -
   id: 103
-  title: "Workshops"
-  subtype: workshop
-  speakers: []
-  language: en
+  title: "Lunch Break"
+  subtype: break
+-
+  id: 113
+  title: "Languages Showcase: Python, R, Matlab, Julia"
+  subtype: presentation
+-
+  id: 133
+  title: "AWS"
+  subtype: presentation  
+-
+  id: 143
+  title: "Stats Central (UNSW): 45 min study design"
+-
+  id: 114
+  title: "Tips & Tricks: Python"
+  subtype: presentation
+  speakers: [ "abdullahshaikh" ]
+-
+  id: 124
+  title: "Tips & Tricks: R"
+  subtype: presentation
+  speakers: [ "unswcoders" ]
+-
+  id: 134
+  title: "EPICentre showcase"
+  subtype: presentation
+  speakers: [ "tomaszbednarz" ]
+-
+  id: 1441
+  title: "Criminal Characters"
+  subtype: presentation
+  speakers: [ "alanapiper" ]
+-
+  id: 1442
+  title: "Tips & Tricks: R"
+  subtype: presentation
+  speakers: [ "unswcoders" ]
+-
+  id: 1541
+  title: "Tips & Tricks: R"
+  subtype: presentation
+  speakers: [ "unswcoders" ]
+-
+  id: 1542
+  title: "Tips & Tricks: R"
+  subtype: presentation
+  speakers: [ "unswcoders" ]
 -
   id: 104
-  title: "Lunch"
+  title: "Short Break"
   subtype: break
-  speakers: []
-  service: true
-  language: en
 -
   id: 105
-  title: "Talks and demos"
-  subtype: presentation
-  speakers: []
-  language: en
--
-  id: 106
-  title: "Mini break"
-  subtype: break
-  speakers: []
-  service: true
-  language: en
--
-  id: 107
-  title: "Talks and demos"
-  subtype: presentation
-  speakers: []
-  language: en
--
-  id: 108
-  title: "Mini break"
-  subtype: break
-  speakers: []
-  service: true
-  language: en
--
-  id: 109
-  title: "Hacky Hour!"
-  subtype: workshop
-  speakers: []
-  language: en
+  title: "Hacky Hour / Social Space"
+  subtype: social

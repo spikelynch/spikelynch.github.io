@@ -46,13 +46,15 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/news/", text: "News"}
  - {permalink: "/getinvolved/", text: "Get involved"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Program"}
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/code/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {permalink: "/getinvolved/", text: "Get involved"}
+ - {link: "http://eepurl.com/hGWsUH", text: "Join our mailing list"}
 rightNavigationButtons:
  - {permalink: "/getinvolved/", text: "Get involved"}
+ - {link: "http://eepurl.com/hGWsUH", text: "Join our mailing list"}
 
 # Hero Block
 heroImage: "hero.jpg"

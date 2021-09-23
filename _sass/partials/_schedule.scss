@@ -57,7 +57,13 @@ $small-label-width: 80px;
         border-bottom: $schedule-border;
     }
 }
-.track-header {
+.timeslot-continued {
+    background: #fff;
+    border-left: $schedule-border;
+    &:last-child {
+        border-bottom: $schedule-border;
+    }
+}.track-header {
     z-index: 10;
     transition: $base-transition;
     &.sticky {
@@ -150,6 +156,15 @@ $small-label-width: 80px;
     &.service-slot {
         @extend .blank-col;
     }
+}
+.stream-one {
+    flex: 1
+}
+.stream-two {
+    flex: 2
+}
+.stream-all {
+    flex: 5
 }
 .color-line {
     height: 5px;

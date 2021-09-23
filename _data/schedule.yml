@@ -1,6 +1,6 @@
 - 
-  date: "2021-11-22"
-  dateReadable: "Draft daily schedule"
+  date: "2021-11-23"
+  dateReadable: "Tuesday 23 Nov"
   tracks: 
     - {title: "Programming 1",                color: "#dbc83f"}
     - {title: "Programming 2",                color: "#dbc83f"}
@@ -10,46 +10,65 @@
   timeslots:
     - {
     	startTime: "9:00",
-    	endTime:   "9:50",
-    	sessionIds: [101]
+    	endTime:   "9:30",
+    	sessionIds: [ 101 ],
+      cols: [ 5 ]
     }
     - {
-      startTime: "9:50",
+      startTime: "9:30",
       endTime:   "10:00",
-      sessionIds: [102]
+      sessionIds: [ 102 ],
+      cols: [ 5 ]
     }
     - {
       startTime: "10:00",
+      endTime:   "11:00",
+      sessionIds: [ 111, 121, 1311, 141, 151 ],
+      rows:  [ 3,    3,    1,   1,   1 ]
+    }
+    - {
+      startTime: "11:00",
+      endTime:   "11:30",
+      sessionIds: [ 1312 ]
+    }
+    - {
+      startTime: "12:00",
       endTime:   "12:30",
-      sessionIds: [103]
+      sessionIds: [ 1313 ]
     }
     - {
       startTime: "12:30",
       endTime:   "13:00",
-      sessionIds: [104]
+      sessionIds: [ 103 ],
+      cols: [ 5 ]
     }
     - {
       startTime: "13:00",
-      endTime:   "13:50",
-      sessionIds: [105]
-    }
-    - {
-      startTime: "13:50",
-      endTime: "14:00",
-      sessionIds: [106]
+      endTime:   "14:00",
+      sessionIds: [ 113, 133, 143 ],
+      cols: [ 2, 1, 2 ]
     }
     - {
       startTime: "14:00",
-      endTime: "14:50",
-      sessionIds: [107]
+      endTime: "14:30",
+      sessionIds: [ 114, 124, 134, 1441, 1541 ],
+      rows: [  2,   2,   2,    1,    1 ]
     }
     - {
-      startTime: "14:50",
+      startTime: "14:30",
+      endTime: "14:45",
+      sessionIds: [ 1442, 1542 ],
+      rows: [  1,    1 ]
+    }
+    - {
+      startTime: "14:45",
       endTime: "15:00",
-      sessionIds: [108]
+      sessionIds: [ 104 ],
+      cols: [ 5 ]
     }
     - {
       startTime: "15:00",
       endTime: "16:00",
-      sessionIds: [109]
+      sessionIds: [ 105 ],
+      cols: [ 5 ]
     }

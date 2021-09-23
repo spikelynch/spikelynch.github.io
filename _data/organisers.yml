@@ -3,8 +3,8 @@
   elements: 
     - {name: "ARDC", link: "https://ardc.edu.au", imageUrl: "ARDC_logo.png" }
     - {name: "Intersect", link: "https://intersect.org.au", imageUrl: "Intersect_logo.png" }
-    - {name: "Macquarie University", link: "https://www.mq.edu.au", imageUrl: "Macquarie_logo.png" }
-    - {name: "University of Sydney", link: "https://www.sydney.edu.au", imageUrl: "USyd_logo.png"}
-    - {name: "University of Technology Sydney", link: "http://www.uts.edu.au", imageUrl: "UTS_logo.png"}
-    - {name: "UNSW Sydney", link: "https://www.unsw.edu.au", imageUrl: "UNSW_logo.png" }
-    - {name: "Western Sydney University", link: "https://www.westernsydney.edu.au", imageUrl: "WSU_logo.png" }
+    - {name: "Macquarie&nbsp;University", link: "https://www.mq.edu.au", imageUrl: "Macquarie_logo.png" }
+    - {name: "University&nbsp;of&nbsp;Sydney", link: "https://www.sydney.edu.au", imageUrl: "USyd_logo.png"}
+    - {name: "University&nbsp;of&nbsp;Technology&nbsp;Sydney", link: "http://www.uts.edu.au", imageUrl: "UTS_Logo_Horizontal_Lockup_RGB_BLK.png"}
+    - {name: "UNSW&nbsp;Sydney", link: "https://www.unsw.edu.au", imageUrl: "UNSW_logo.png" }
+    - {name: "Western&nbsp;Sydney&nbsp;University", link: "https://www.westernsydney.edu.au", imageUrl: "WSU_logo.png" }

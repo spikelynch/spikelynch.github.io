@@ -3,16 +3,29 @@
   <channel>
     <title>ResBaz Sydney 2021</title>
     <description>A conference promoting digital literacy and skill-sharing for researchers</description>
-    <link>https://resbaz.github.io/resbaz2021/sydney/</link>
-    <atom:link href="https://resbaz.github.io/resbaz2021/sydney/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/resbaz2021/sydney/</link>
+    <atom:link href="http://localhost:4000/resbaz2021/sydney/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Eep it's my first time teaching or presenting  online! </title>
+        <description>&lt;p&gt;Over the last couple of years we’ve become used to doing everything online and in zoom. As virtual workshops have become normal, we realise that translating talks, demonstrations and workshops to a virtual medium requires a bit more preparation than simply uploading your slides and sharing your screen. Equally, the participant experience of teaching and learning online can be remarkably isolating.&lt;/p&gt;
+
+&lt;p&gt;This year we’re inviting ResBaz speakers, instructors and volunteers to attend the inaugural Australian Carpentry Connect community event before rocking up to ResBaz. &lt;a href=&quot;https://carpentries.org/&quot;&gt;The Carpentries&lt;/a&gt; is a nonprofit organization that teaches software engineering and data science skills to researchers through instructional workshops. It’s a global community of researchers who share a passion for good teaching practices and peer learning. Carpentries  programming workshops have formed the backbone of ResBaz since we started - we dream the same dream.&lt;/p&gt;
+
+&lt;p&gt;We think that the best way to prepare you for contributing to ResBaz is to introduce you to this friendly community, share useful tips and tricks, and get to know a few familiar faces ahead of the main event. &lt;a href=&quot;https://www.eventbrite.com.au/e/carpentry-connect-australia-tickets-170400229674&quot;&gt;Please sign up here.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Sep 2021 10:00:00 +1000</pubDate>
+        <link>http://localhost:4000/resbaz2021/sydney/news/teaching-online</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2021/sydney/news/teaching-online</guid>
+      </item>
     
       <item>
         <title>ResBaz Sydney 2021</title>
         <description>&lt;p&gt;And we’re live! Despite the current lockdown, the team at ResBaz Sydney are very excited to be announcing our intentions to host a virtual ResBaz at the end of this year. Right now, we’re working on our program structure to make sure we retain the best of ResBaz community while running a virtual event. We’ve had a year of ‘pivoting online’ and ‘you’re on mute’ so honestly, the only way is up. Once our social infrastructure is confirmed, we’ll be putting out the word for volunteers to join in the fun. Submit a talk, offer to run a workshop, host a discussion panel or join us as a ResBazador!&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Jun 2021 18:00:00 +1000</pubDate>
-        <link>https://resbaz.github.io/resbaz2021/sydney/news/live</link>
-        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/live</guid>
+        <link>http://localhost:4000/resbaz2021/sydney/news/live</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2021/sydney/news/live</guid>
       </item>
     
   </channel>
