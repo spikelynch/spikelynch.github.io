@@ -157,15 +157,6 @@ $small-label-width: 80px;
         @extend .blank-col;
     }
 }
-.stream-one {
-    flex: 1
-}
-.stream-two {
-    flex: 2
-}
-.stream-all {
-    flex: 5
-}
 .color-line {
     height: 5px;
     position: absolute;

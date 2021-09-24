@@ -26,7 +26,6 @@
   id: 1312
   title: "Short break"
   subtype: break
-  service: true
 -
   id: 1313
   title: "Compute presentation 2"
@@ -46,6 +45,7 @@
   id: 103
   title: "Lunch Break"
   subtype: break
+  service: true
 -
   id: 113
   title: "Languages Showcase: Python, R, Matlab, Julia"
@@ -96,6 +96,7 @@
   id: 104
   title: "Short Break"
   subtype: break
+  service: true
 -
   id: 105
   title: "Hacky Hour / Social Space"

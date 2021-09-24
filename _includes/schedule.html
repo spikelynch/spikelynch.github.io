@@ -45,7 +45,10 @@
                     {% endif %}
                     {% for session in site.data.sessions %}
                         {% if slot == session.id and session.service == null %}
-                            <td colspan="{{ cs }}" rowspan="{{ rs }}" id="session-{{ session.id }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                            <td class="slot" colspan="{{ cs }}" rowspan="{{ rs }}" id="session-{{ session.id }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                            <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
+                            <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
+
                                     <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.speakers %}
@@ -60,14 +63,19 @@
                                                 {% endfor %}    
                                             {% endfor %}
                                         </ul>
-                                
+                                </div>
+                            </div>    
                             </td>
                         {% elsif slot == session.id and session.service != null %}
-                            <td class="slot col-xs-12" data-slot-detail="{{ session.place }}">
+                            <td colspan="{{ cs }}" rowspan="{{ rs }}" class="slot" data-slot-detail="{{ session.place }}">
+                                <div class="color-line"></div>
+                                <div class="slot-content">
                                 <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                     {% if session.description != null %}
                                     <p class="service-description">{{ session.description }}</p>
                                     {% endif %}
+                                </div>
+                                </div>
                             </td>
                         {% endif %}
                     {% endfor %}
