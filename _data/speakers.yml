@@ -1,0 +1,180 @@
+- 
+  id: 1
+  name: "Jianzhou"
+- 
+  id: 2
+  name: "Andrew"
+- 
+  id: 3
+  name: "Belinda"
+  surname: "Fabian"
+  company: "Macquarie University"
+-
+  id: 4 
+  name: "Marium"
+- 
+  id: 5
+  name: "Jerry"
+- 
+  id: 6
+  name: "Sara"
+  surname: "King"
+- 
+  id: 7
+  name: "David"
+  surname: "Jung"
+- 
+  id: 8
+  name: "Aidan"
+  surname: "Wilson"
+- 
+  id: 9
+  name: "Weisi"
+  surname: "Chen"
+- 
+  id: 10
+  name: "Anastasios"
+  surname: "Papaioannou"
+- 
+  id: 11
+  name: "Emmanual"
+  surname: "Blanchard"
+- 
+  id: 12
+  name: "Jason"
+  surname: "Potas"
+- 
+  id: 13
+  name: "Stats Central"
+  institution: "UNSW"
+- 
+  id: 14
+  name: "Abdullah Shaikh"
+  institution: "UNSW"
+- 
+  id: 15
+  name: "UNSW CodeRs"
+  institution: "UNSW"  
+- 
+  id: 16
+  name: "Tomasz"
+  surname: "Bednarz"
+  institution: "CSIRO"
+- 
+  id: 17
+  name: "Alana"
+  surname: "Piper"
+  institution: "University of Technology Sydney"
+- 
+  id: 18
+  name: "Jessica"
+  surname: "Wilson"
+  institution: "University of Newcastle"
+- 
+  id: 19
+  name: "Raina"
+  surname: "MacIntyre"
+  honorific: "Professor"
+- 
+  id: 20
+  name: "John"
+  surname: "Zaitseff"
+  institution: "UNSW"
+- 
+  id: 21
+  name: "Olga"
+  surname: "Boichak"
+- 
+  id: 22
+  name: "Jeff"
+  surname: "Wang"
+- 
+  id: 23
+  name: "Tim"
+  surname: "Sheratt"
+  honorific: "Associate Professor"
+-
+  id: 24
+  name: "Jonathan"
+  surname: "Gardner"
+  institution: "MDAP"
+-
+  id: 25
+  name: "Sonia"
+  surname: "Ramza"
+-
+  id: 26
+  name: "Titus"
+  surname: "Tang"
+  institution: "Monash"
+-
+  id: 27
+  name: "Tarun"
+  surname: "Bonu"
+  institution: "Monash"
+-
+  id: 28
+  name: "Ann"
+  surname: "Backhaus"
+-
+  id: 29
+  name: "Jinbo"
+  surname: "Wang"
+-
+  id: 30
+  name: "Sean"
+  surname: "Grady"
+-
+  id: 31
+  name: "Taren"
+  surname: "Sanders"
+  honorific: "Dr"
+  institution: "Australian Catholic University"
+-
+  id: 32
+  name: "Philip"
+  surname: "Parker"
+  honorific: "Prof"
+  institution: "Australian Catholic University"
+-
+  id: 33
+  name: "Genevieve"
+  surname: "Buckley"
+-
+  id: 34
+  name: "Peta"
+  surname: "Scott"
+-
+  id: 34
+  name: "Clinton"
+  surname: "Chee"
+-
+  id: 35
+  name: "Nick"
+  surname: "May"
+-
+  id: 36
+  name: "Jake"
+  surname: "Surman"
+  institution: "UNSW"
+-
+  id: 37
+  name: "Gen"
+  surname: "Rosewall"
+  institution: "AARNet"
+-
+  id: 38
+  name: "Melroy"
+  surname: "Almeida"
+-
+  id: 39
+  name: "Jason"
+  surname: "Potas"
+-
+  id: 40
+  name: "Melissa"
+  surname: "Burke"
+-
+  id: 41
+  name: "Adrian"
+  surname: "Chew"

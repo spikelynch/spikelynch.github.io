@@ -5,19 +5,20 @@
   speakers: []
 -
   id: 102
-  title: "Key Story 1"
+  title: "Key Story 1: Epiwatch/AI"
   subtype: presentation
-  speakers: []
+  speakers: [ 19 ]
 -
   id: 111
   title: "Learn to Program: Python"
   subtype: workshop
-  assistants: [ 'jianzhou', 'andrew']
+  assistants: [ 1, 2 ]
 -
   id: 121
   title: "Learn to Program: R"
-  speakers: [ 'belindafabian']
-  assistants: [ 'marium', 'jerry' ]
+  subtype: workshop
+  speakers: [ 3 ]
+  assistants: [ 4, 5 ]
 -
   id: 1311
   title: "Compute presentation 1"
@@ -32,15 +33,15 @@
   subtype: presentation
 -
   id: 141
-  title: "JupyterLab, Intro to Cloudstor"
-  subtype: presentation
-  speakers: [ 'sarahking']
+  title: "Introduction to Jupyter Notebooks"
+  subtype: workshop
+  speakers: [ 6 ]
 -
   id: 151
   title: "Data Capture and Surveys with REDCap"
-  subtype: presentation
-  speakers: [ 'davidjung' ]
-  assistants: [ 'aidanwilson', 'weisichen' ]
+  subtype: workshop
+  speakers: [ 7 ]
+  assistants: [ 8, 9 ]
 -
   id: 103
   title: "Lunch Break"
@@ -50,48 +51,51 @@
   id: 113
   title: "Languages Showcase: Python, R, Matlab, Julia"
   subtype: presentation
+  speakers: [ 10, 1, 11, 12 ]
 -
   id: 133
-  title: "AWS"
-  subtype: presentation  
+  title: "AWS Tree Talk"
+  subtype: tbc  
 -
   id: 143
-  title: "Stats Central (UNSW): 45 min study design"
+  title: "Study design"
+  subtype: presentation
+  speakers: [ 13 ]
 -
   id: 114
   title: "Tips & Tricks: Python"
   subtype: presentation
-  speakers: [ "abdullahshaikh" ]
+  speakers: [ 14 ]
 -
   id: 124
   title: "Tips & Tricks: R"
   subtype: presentation
-  speakers: [ "unswcoders" ]
+  speakers: [ 15 ]
 -
   id: 134
   title: "EPICentre showcase"
   subtype: presentation
-  speakers: [ "tomaszbednarz" ]
+  speakers: [ 16 ]
 -
   id: 1441
   title: "Criminal Characters"
   subtype: presentation
-  speakers: [ "alanapiper" ]
--
-  id: 1442
-  title: "Tips & Tricks: R"
-  subtype: presentation
-  speakers: [ "unswcoders" ]
+  speakers: [ 17 ]
 -
   id: 1541
-  title: "Tips & Tricks: R"
-  subtype: presentation
-  speakers: [ "unswcoders" ]
+  title: "LHD / MRI"
+  subtype: tbc
+  speakers: [ ]
+-
+  id: 1442
+  title: "Researcher showcase"
+  subtype: tbc
+  speakers: [ ]
 -
   id: 1542
-  title: "Tips & Tricks: R"
+  title: "The Login Lab: Centre for Brain and Mental Health Research"
   subtype: presentation
-  speakers: [ "unswcoders" ]
+  speakers: [ 18 ]
 -
   id: 104
   title: "Short Break"
@@ -100,4 +104,217 @@
 -
   id: 105
   title: "Hacky Hour / Social Space"
+  subtype: social
+-
+  id: 201
+  title: "Key Story 2: TERN: Ecosystem Research Infrastructure"
+  speakers: [ 20 ]
+-
+  id: 211
+  title: "Data Manipulation in Python"
+  assistants: [ 1, 2 ]
+  subtype: workshop
+-
+  id: 221
+  title: "Data Manipulation in R"
+  speakers: [ 3 ]
+  assistants: [ 4, 5 ]
+  subtype: workshop
+-
+  id: 231
+  title: "Intro to High Performance Computing"
+  speakers: [ 20 ]
+  subtype: workshop
+-
+  id: 241
+  title: "Mapping the National Web: Dynamic Semantic Networks"
+  speakers: [ 21 ]
+  subtype: workshop
+-
+  id: 251
+  title: "Surveying with Qualtrics"
+  speakers: [ 8 ]
+  assistants: [ 7, 22 ]
+  subtype: workshop
+-
+  id: 212
+  title: "Lunch break"
+  subtype: break
+  service: true
+-
+  id: 242
+  title: "Lunch break"
+  subtype: break
+  service: true
+-
+  id: 213
+  title: "Lunchtime Sessions"
+  subtype: presentation
+-
+  id: 243
+  title: "Key Story: Exploring Australian GLAM data"
+  speakers: [ 23 ]
+  subtype: presentation
+-
+  id: 214
+  title: "Geospatial Analysis"
+  speakers: [ 24 ]
+  subtype: presentation
+-
+  id: 234
+  title: "Nectar Research Cloud"
+  speakers: [ 25 ]
+  subtype: presentation
+-
+  id: 215
+  title: "Computer Vision"
+  speakers: [ 26 ]
+  subtype: presentation
+-
+  id: 245
+  title: "blank"
+  subtype: tbc
+  speakers: [ ]
+-
+  id: 255
+  title: "Field Acquired Information Management Systems (FAIMS) Project"
+  subtype: presentation
+  speakers: [ ]
+-
+  id: 216
+  title: "Getting Started with Deep Learning / ML4AU Community"
+  subtype: presentation
+  speakers: [ 26, 27 ]
+-
+  id: 236
+  title: "Introduction to NCI and Pawsey"
+  speakers: [ 28, 29 ]
+  subtype: presentation
+-
+  id: 246
+  title: "Survey Tools in Research: REDCap and Qualtrics"
+  speakers: [ 8, 30, 9 ]
+-
+  id: 237
+  title: "Short break"
+  subtype: break
+  service: true
+-
+  id: 205
+  title: "Hacky Hour"
+  subtype: social
+-
+  id: 301
+  title: "How We Do Reproducible Research"
+  subtype: presentation
+  speakers: [ 31, 32 ]
+-
+  id: 311
+  title: "Data Visualisation in Python"
+  assistants: [ 1, 2 ]
+  subtype: workshop
+-
+  id: 321
+  title: "Data Viualisation in R"
+  speakers: [ 3 ]
+  assistants: [ 4, 5 ]
+  subtype: workshop
+-
+  id: 3311
+  title: "TERN CoESRA VDI"
+  speakers: [ ]
+  subtype: presentation
+-
+  id: 3312
+  title: "Short break"
+  subtype: break
+  service: true
+-
+  id: 3313
+  title: "Dask Workshop"
+  subtype: tbc
+  speakers: [ 33 ]
+-
+  id: 341
+  title: "Getting Started with NVivo"
+  speakers: [ 30, 34 ]
+  subtype: workshop
+-
+  id: 3511
+  title: "Altair"
+  speakers: [ 35 ]
+  subtype: tbc
+-
+  id: 3512
+  title: "Short break"
+  subtype: break
+  service: true
+-
+  id: 3513
+  title: "REDCap Tips and Tricks"
+  subtype: tbc
+  speakers: [ ]
+-
+  id: 302
+  title: "Lunch break"
+  subtype: break
+  service: true
+-
+  id: 303
+  title: "Lunchtime Sessions - Discovering Digital Research Training Events and Materials"
+  subtype: presentation
+  speakers: [ 35 ]
+-
+  id: 314
+  title: "Maths Showcase"
+  subtype: tbc
+  speakers: [ ]
+-
+  id: 334
+  title: "HPC Panel: NCI/Pawsey Researchers"
+  subtype: panel
+  speakers: [ ]
+-
+  id: 3441
+  title: "Online Transcription Tips & Tricks"
+  speakers: [ 36 ]
+  subtype: presentation
+-
+  id: 3442
+  title: "A Cloud-based Sensitive Data Platform"
+  speakers: [ 37 ]
+  subtype: presentation
+-
+  id: 305
+  title: ORCID
+  speakers: [ 38 ]
+  subtype: presentation
+-
+  id: 316
+  title: "Neuroscience/Bionics Using Julia"
+  subtype: presentation
+  speakers: [ 39 ]
+-
+  id: 336
+  title: "Australian BioCommons"
+  subtype: presentation
+  speakers: [ 40 ]
+-
+  id: 346
+  title: "TBC"
+  subtype: tbc
+-
+  id: 356
+  title: "RDM Education and Training"
+  description: "Working towards a principledly-aligned and institutionally-contextualised RDM educational/training experience for the research community"
+  subtype: presentation
+  speakers: [ 41 ]
+-
+  id: 306
+  title: "Short break"
+  subtype: break
+  service: true
+-
+  id: 307
+  title: "Hacky Hour"
   subtype: social
