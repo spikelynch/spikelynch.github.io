@@ -1,7 +1,7 @@
 -
   id: 101
   title: "Welcome to country + orientation"
-  subtype: presentation
+  subtype: social
   speakers: []
 -
   id: 102
@@ -108,6 +108,7 @@
 -
   id: 201
   title: "Key Story 2: TERN: Ecosystem Research Infrastructure"
+  subtype: presentation
   speakers: [ 20 ]
 -
   id: 211
@@ -149,7 +150,7 @@
 -
   id: 213
   title: "Lunchtime Sessions"
-  subtype: presentation
+  subtype: social
 -
   id: 243
   title: "Key Story: Exploring Australian GLAM data"
@@ -194,6 +195,7 @@
   id: 246
   title: "Survey Tools in Research: REDCap and Qualtrics"
   speakers: [ 8, 30, 9 ]
+  subtype: presentation
 -
   id: 237
   title: "Short break"
@@ -251,9 +253,9 @@
   service: true
 -
   id: 3513
-  title: "REDCap Tips and Tricks"
-  subtype: tbc
-  speakers: [ ]
+  title: "REDCap Problem Solving Workshop"
+  subtype: workshop
+  speakers: [ 42 ]
 -
   id: 302
   title: "Lunch break"
@@ -272,7 +274,7 @@
 -
   id: 334
   title: "HPC Panel: NCI/Pawsey Researchers"
-  subtype: panel
+  subtype: presentation
   speakers: [ ]
 -
   id: 3441

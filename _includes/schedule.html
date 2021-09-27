@@ -45,37 +45,29 @@
                     {% endif %}
                     {% for session in site.data.sessions %}
                         {% if slot == session.id and session.service == null %}
-                            <td class="slot" colspan="{{ cs }}" rowspan="{{ rs }}" id="session-{{ session.id }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
-                            <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
-                            <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
+                            <td class="slot session-{{session.subtype}}" colspan="{{ cs }}" rowspan="{{ rs }}" id="session-{{ session.id }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
 
                                     <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
                                                     {% if session_speaker == speaker.id %}
-                                                    <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+                                                    <li itemprop="performer">
                                                     <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
-                                                        <span class="speaker-position">{{ speaker.company }}</span>
+                                                    <span class="speaker-position">{{ speaker.institution }}</span>
                                                     </p>
                                                     </li>
                                                     {% endif %}
                                                 {% endfor %}    
                                             {% endfor %}
                                         </ul>
-                                </div>
-                            </div>    
                             </td>
                         {% elsif slot == session.id and session.service != null %}
-                            <td colspan="{{ cs }}" rowspan="{{ rs }}" class="slot" data-slot-detail="{{ session.place }}">
-                                <div class="color-line"></div>
-                                <div class="slot-content">
+                            <td colspan="{{ cs }}" rowspan="{{ rs }}" class="slot session-break" data-slot-detail="{{ session.place }}">
                                 <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                     {% if session.description != null %}
                                     <p class="service-description">{{ session.description }}</p>
                                     {% endif %}
-                                </div>
-                                </div>
                             </td>
                         {% endif %}
                     {% endfor %}

@@ -24,8 +24,6 @@ $small-label-width: 80px;
         box-shadow: 0 1px 0 rgba(0, 0, 0, .15), 0 1px 2px rgba(0, 0, 0, .2);
     }
     .speaker-name {
-        line-height: $speaker-image-size - 12;
-        margin-left: $speaker-image-size + 8;
     }
     .speaker-position {
         color: #555;
@@ -145,7 +143,7 @@ $small-label-width: 80px;
 }
 .slot {
     @extend .track-header-slot;
-    padding: 0;
+    padding: 20px;
     cursor: pointer;
     @media (max-width: 767px) {
         border-top: $schedule-border;
@@ -156,6 +154,21 @@ $small-label-width: 80px;
     &.service-slot {
         @extend .blank-col;
     }
+}
+.session-presentation {
+    background: #bbccee;
+}
+.session-workshop {
+    background: #ffcccc;
+}
+.session-tbc {
+    background: #eeeebb;
+}
+.session-break {
+    background: #ccddaa;
+}
+.session-social {
+    background: #cceeff;
 }
 .color-line {
     height: 5px;
