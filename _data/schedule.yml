@@ -17,7 +17,7 @@
     - {
       startTime: "9:30",
       endTime:   "10:00",
-      sessionIds: [ 102 ],
+      sessionIds: [ 301 ],
       cols: [ 5 ]
     }
     - {
@@ -90,65 +90,133 @@
     }
     - {
       startTime: "9:30",
-      endTime:   "10:00",
-      sessionIds: [ 102 ],
-      cols: [ 5 ]
-    }
-    - {
-      startTime: "10:00",
-      endTime:   "11:00",
-      sessionIds: [ 111, 121, 1311, 141, 151 ],
-      rows:  [ 3,    3,    1,   3,   3 ]
-    }
-    - {
-      startTime: "11:00",
-      endTime:   "11:30",
-      sessionIds: [ 1312 ]
+      endTime:   "12:00",
+      sessionIds: [ 211, 221, 231, 241, 251 ],
+      rows:       [ 1,    1,    2,   1,   1 ]
     }
     - {
       startTime: "12:00",
       endTime:   "12:30",
-      sessionIds: [ 1313 ]
+      sessionIds: [ 212, 242 ],
+      cols:       [ 2,   2   ]
     }
     - {
       startTime: "12:30",
       endTime:   "13:00",
-      sessionIds: [ 103 ],
-      cols: [ 5 ]
+      sessionIds: [ 213, 243 ],
+      cols:       [ 3,   2   ],
+      rows:       [ 1,   2   ],
     }
     - {
       startTime: "13:00",
+      endTime:   "13:30",
+      sessionIds: [ 214, 234 ],
+      cols:       [ 2, 1 ],
+      rows:       [ 1, 2 ]
+    }
+    - {
+      startTime: "13:30",
       endTime:   "14:00",
-      sessionIds: [ 113, 133, 143 ],
-      cols: [ 2, 1, 2 ]
+      sessionIds: [ 215, 245, 255 ],
+      cols:       [ 2,     1,   1 ]
     }
     - {
       startTime: "14:00",
-      endTime: "14:30",
-      sessionIds: [ 114, 124, 134, 1441, 1541 ],
-      rows: [  2,   2,   2,    1,    1 ]
-    }
-    - {
-      startTime: "14:30",
       endTime: "14:45",
-      sessionIds: [ 1442, 1542 ],
-      rows: [  1,    1 ]
+      sessionIds: [ 216, 236, 246 ],
+      cols:       [  2,    1,   2 ],
+      rows:       [  2,    1,   1 ],
     }
     - {
       startTime: "14:45",
       endTime: "15:00",
-      sessionIds: [ 104 ],
+      sessionIds: [  237 ],
+      cols: [ 3 ]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "16:00",
+      sessionIds: [ 205 ],
+      cols: [ 5 ]
+    }
+- 
+  date: "2021-11-25"
+  dateReadable: "Thursday 25 Nov"
+  tracks: 
+    - {title: "Programming 1",                color: "#dbc83f"}
+    - {title: "Programming 2",                color: "#dbc83f"}
+    - {title: "Compute",                      color: "#db8f3f"}
+    - {title: "Humanities & Social Sciences", color: "#2b7189"}
+    - {title: "Survey & Data Collection",     color: "#583595"}
+  timeslots:
+    - {
+      startTime: "9:00",
+      endTime:   "9:30",
+      sessionIds: [ 102 ],
+      cols: [ 5 ]
+    }
+    - {
+      startTime: "9:30",
+      endTime:   "10:30",
+      sessionIds: [ 311, 321, 3311, 341, 3511 ],
+      rows:       [ 3,   3,   1,    3,   1    ]
+    }
+    - {
+      startTime: "10:30",
+      endTime:   "11:00",
+      sessionIds: [ 3312, 3512 ]
+    }
+    - {
+      startTime: "11:00",
+      endTime:   "12:00",
+      sessionIds: [ 3313, 3513 ]
+    }
+    - {
+      startTime: "12:00",
+      endTime:   "12:30",
+      sessionIds: [ 302 ],
+      cols:       [ 5 ]
+    }
+    - {
+      startTime: "12:30",
+      endTime:   "13:00",
+      sessionIds: [ 303 ],
+      cols:       [ 5 ]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "13:30",
+      sessionIds: [ 314, 334, 3441 ],
+      cols:       [  2,    1,    2 ],
+      rows:       [  2,    2,    1 ]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "14:00",
+      sessionIds: [  3442 ],
+      cols: [ 2 ]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "14:30",
+      sessionIds: [ 305 ],
+      cols: [ 5 ]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "14:45",
+      sessionIds: [ 316, 336, 346, 356 ],
+      cols:       [   2,   1,   1,   1 ]
+    }
+    - {
+      startTime: "14:45",
+      endTime: "15:00",
+      sessionIds: [ 306 ],
       cols: [ 5 ]
     }
     - {
       startTime: "15:00",
       endTime: "16:00",
-      sessionIds: [ 105 ],
-      cols: [ 5 ]
-    }
-    - {
-      startTime: "15:00",
-      endTime: "16:00",
-      sessionIds: [ 105 ],
+      sessionIds: [ 307 ],
       cols: [ 5 ]
     }
