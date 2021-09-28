@@ -11,7 +11,7 @@
                 </td>
             </tr>
             <tr class="timeslot track-header stick-header">
-                <td class="track-header-label">Day {{ forloop.index }}</td>
+                <td class="track-header-slot">Day {{ forloop.index }}</td>
                 {% for track in day.tracks %}
                 <td class="track-header-slot hidden-xs">
                     <h5 class="track-header-title">{{ track.title }}</h5>
@@ -49,8 +49,8 @@
 
                                     <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <ul class="slot-speakers">
-                                            {% for speaker in site.data.speakers %}
-                                                {% for session_speaker in session.speakers %}
+                                            {% for session_speaker in session.speakers %}
+                                                {% for speaker in site.data.speakers %}
                                                     {% if session_speaker == speaker.id %}
                                                     <li itemprop="performer">
                                                     <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}

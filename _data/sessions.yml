@@ -12,13 +12,12 @@
   id: 111
   title: "Learn to Program: Python"
   subtype: workshop
-  assistants: [ 1, 2 ]
+  speakers: [ 1, 2 ]
 -
   id: 121
   title: "Learn to Program: R"
   subtype: workshop
-  speakers: [ 3 ]
-  assistants: [ 4, 5 ]
+  speakers: [ 3, 4, 5 ]
 -
   id: 1311
   title: "Compute presentation 1"
@@ -40,8 +39,7 @@
   id: 151
   title: "Data Capture and Surveys with REDCap"
   subtype: workshop
-  speakers: [ 7 ]
-  assistants: [ 8, 9 ]
+  speakers: [ 7, 8, 9 ]
 -
   id: 103
   title: "Lunch Break"
@@ -113,13 +111,12 @@
 -
   id: 211
   title: "Data Manipulation in Python"
-  assistants: [ 1, 2 ]
+  speakers: [ 1, 2 ]
   subtype: workshop
 -
   id: 221
   title: "Data Manipulation in R"
-  speakers: [ 3 ]
-  assistants: [ 4, 5 ]
+  speakers: [ 3, 4, 5 ]
   subtype: workshop
 -
   id: 231
@@ -134,8 +131,7 @@
 -
   id: 251
   title: "Surveying with Qualtrics"
-  speakers: [ 8 ]
-  assistants: [ 7, 22 ]
+  speakers: [ 8, 7, 22 ]
   subtype: workshop
 -
   id: 212
@@ -213,13 +209,12 @@
 -
   id: 311
   title: "Data Visualisation in Python"
-  assistants: [ 1, 2 ]
+  speakers: [ 1, 2 ]
   subtype: workshop
 -
   id: 321
   title: "Data Viualisation in R"
-  speakers: [ 3 ]
-  assistants: [ 4, 5 ]
+  speakers: [ 3, 4, 5 ]
   subtype: workshop
 -
   id: 3311
