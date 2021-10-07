@@ -1,48 +1,63 @@
 - 
   id: 1
   name: "Jianzhou"
+  surname: "Zhao"
+  institution: "Intersect"
 - 
   id: 2
   name: "Andrew"
+  surname: "Goh"
+  institution: "Intersect"
 - 
   id: 3
   name: "Belinda"
   surname: "Fabian"
-  company: "Macquarie University"
+  institution: "Macquarie University"
 -
   id: 4 
   name: "Marium"
+  surname: "Afzal Khan"
+  institution: "Intersect"
 - 
   id: 5
   name: "Jerry"
+  surname: "Lai"
+  institution: "Intersect"  
 - 
   id: 6
   name: "Sara"
   surname: "King"
+  institution: "AARNet"
 - 
   id: 7
   name: "David"
   surname: "Jung"
+  institution: "UNSW"
 - 
   id: 8
   name: "Aidan"
   surname: "Wilson"
+  institution: "Intersect"
 - 
   id: 9
   name: "Weisi"
   surname: "Chen"
+  institution: "Intersect"
 - 
   id: 10
   name: "Anastasios"
   surname: "Papaioannou"
+  institution: "Intersect"
 - 
   id: 11
   name: "Emmanual"
   surname: "Blanchard"
+  institution: "Mathworks"
 - 
   id: 12
   name: "Jason"
   surname: "Potas"
+  institution: "UNSW"
 - 
   id: 13
   name: "Stats Central"
@@ -59,11 +74,12 @@
   id: 16
   name: "Tomasz"
   surname: "Bednarz"
-  institution: "CSIRO"
+  institution: "UNSW & CSIRO"
 - 
   id: 17
   name: "Alana"
   surname: "Piper"
+  honorific: "Dr"
   institution: "University of Technology Sydney"
 - 
   id: 18
@@ -74,7 +90,8 @@
   id: 19
   name: "Raina"
   surname: "MacIntyre"
-  honorific: "Professor"
+  honorific: "Prof"
+  institution: "UNSW"
 - 
   id: 20
   name: "John"
@@ -84,15 +101,18 @@
   id: 21
   name: "Olga"
   surname: "Boichak"
+  institution: "University of Sydney"
 - 
   id: 22
   name: "Jeff"
   surname: "Wang"
+  institution: "Intersect"
 - 
   id: 23
   name: "Tim"
   surname: "Sheratt"
-  honorific: "Associate Professor"
+  honorific: "A/Prof"
+  institution: "University of Canberra"
 -
   id: 24
   name: "Jonathan"
@@ -102,6 +122,7 @@
   id: 25
   name: "Sonia"
   surname: "Ramza"
+  institution: "ARDC"
 -
   id: 26
   name: "Titus"
@@ -116,14 +137,17 @@
   id: 28
   name: "Ann"
   surname: "Backhaus"
+  institution: "Pawsey Supercomputing Centre"
 -
   id: 29
   name: "Jinbo"
   surname: "Wang"
+  institution: "NCI Australia"
 -
   id: 30
   name: "Sean"
   surname: "Grady"
+  institution: "Intersect"
 -
   id: 31
   name: "Taren"
@@ -140,18 +164,17 @@
   id: 33
   name: "Genevieve"
   surname: "Buckley"
+  institution: ""
 -
   id: 34
   name: "Peta"
   surname: "Scott"
--
-  id: 34
-  name: "Clinton"
-  surname: "Chee"
+  institution: "Intersect"
 -
   id: 35
   name: "Nick"
   surname: "May"
+  institution: "Pawsey/ARDC"
 -
   id: 36
   name: "Jake"
@@ -159,13 +182,14 @@
   institution: "UNSW"
 -
   id: 37
-  name: "Gen"
-  surname: "Rosewall"
+  name: "Carina"
+  surname: "Kemp"
   institution: "AARNet"
 -
   id: 38
   name: "Melroy"
   surname: "Almeida"
+  institution: "AAF"
 -
   id: 39
   name: "Jason"
@@ -174,11 +198,100 @@
   id: 40
   name: "Melissa"
   surname: "Burke"
+  institution: "Australian BioCommons"
 -
   id: 41
   name: "Adrian"
   surname: "Chew"
+  institution: "UNSW"
 -
   id: 42
   name: "Aidan"
   surname: "Wilson"
+  institution: "Intersect"
+-
+  id: 43
+  name: "Fiona"
+  surname: "Jones"
+  institution: "Macquarie University"
+-
+  id: 44
+  name: "Jim"
+  surname: "Whelan"
+  honorific: "Prof"
+  institution: "La Trobe University"
+-
+  id: 45
+  name: "Matthew"
+  surname: "Lewsey"
+  institution: "La Trobe University"
+-
+  id: 46
+  name: "Peter"
+  surname: "Vuillermin"
+  honorific: "Prof"
+  institution: "Deakin University"
+-
+  id: 47
+  name: "Tom"
+  surname: "Honeyman"
+  institution: "ARDC"
+-
+  id: 48
+  name: "Kat"
+  institution: "University of Sydney"
+-
+  id: 49
+  name: "Hume"
+  surname: "Wiznar"
+  institution: "Macquarie University"
+-
+  id: 50
+  name: "Abhay"
+  surname: "Singh"
+  institution: "Macquarie University"
+-
+  id: 51
+  name: "Claudia"
+  surname: "Hillenbrand"
+  institution: "UNSW"
+-
+  id: 52
+  name: "Anusuriya"
+  surname: "Devaraju"
+  institution: ""
+-
+  id: 53
+  name: "Kirsten"
+  surname: "Wright"
+  institution: "University of Melbourne"
+-
+  id: 54
+  name: "Constance"
+  surname: "Thurley-Hart"
+  institution: "University of Melbourne"
+-
+  id: 55
+  name: "Crook"
+  surname: "Penny"
+  institution: "Macquarie"
+-
+  id: 56
+  name: "Siddeswara"
+  surname: "Guru"
+  institution: "University of Queensland"
+-
+  id: 57
+  name: "Clinton"
+  surname: "Chee"
+  institution: "Altair"
+-
+  id: 58
+  name: "Bradley"
+  surname: "Horton"
+  institution: "Mathworks"
+-
+  id: 59
+  name: "Jose"
+  surname: "Ferrer"
+  institution: "UNSW"

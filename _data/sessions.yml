@@ -12,7 +12,7 @@
   id: 111
   title: "Learn to Program: Python"
   subtype: workshop
-  speakers: [ 1, 2 ]
+  speakers: [ 14, 1, 2 ]
 -
   id: 121
   title: "Learn to Program: R"
@@ -20,7 +20,8 @@
   speakers: [ 3, 4, 5 ]
 -
   id: 1311
-  title: "Compute presentation 1"
+  title: "BizData/MS Azure"
+  speakers: [ 44, 45 ]
   subtype: presentation
 -
   id: 1312
@@ -28,13 +29,14 @@
   subtype: break
 -
   id: 1313
-  title: "Compute presentation 2"
+  title: "BizData/MS Azure"
+  speakers: [ 46 ]
   subtype: presentation
 -
   id: 141
   title: "Introduction to Jupyter Notebooks"
   subtype: workshop
-  speakers: [ 6 ]
+  speakers: [ 6, 43 ]
 -
   id: 151
   title: "Data Capture and Surveys with REDCap"
@@ -46,17 +48,23 @@
   subtype: break
   service: true
 -
+  id: 1031
+  title: "Best Practices in Software Citations"
+  subtype: presentation
+  speakers: [ 47 ]
+-
   id: 113
   title: "Languages Showcase: Python, R, Matlab, Julia"
   subtype: presentation
   speakers: [ 10, 1, 11, 12 ]
 -
   id: 133
-  title: "AWS Tree Talk"
-  subtype: tbc  
+  title: "Modelling the Future of Surface"
+  subtype: presentation
+  speakers: [ 48 ]
 -
   id: 143
-  title: "Study design"
+  title: "Study Design"
   subtype: presentation
   speakers: [ 13 ]
 -
@@ -68,7 +76,7 @@
   id: 124
   title: "Tips & Tricks: R"
   subtype: presentation
-  speakers: [ 15 ]
+  speakers: [ 49, 50 ]
 -
   id: 134
   title: "EPICentre showcase"
@@ -81,9 +89,9 @@
   speakers: [ 17 ]
 -
   id: 1541
-  title: "LHD / MRI"
+  title: "Research Imaging"
   subtype: tbc
-  speakers: [ ]
+  speakers: [ 51 ]
 -
   id: 1442
   title: "Researcher showcase"
@@ -101,17 +109,17 @@
   service: true
 -
   id: 105
-  title: "Hacky Hour / Social Space"
+  title: "Hacky Hour in gather.town"
   subtype: social
 -
   id: 201
   title: "Key Story 2: TERN: Ecosystem Research Infrastructure"
   subtype: presentation
-  speakers: [ 20 ]
+  speakers: [ 52 ]
 -
   id: 211
   title: "Data Manipulation in Python"
-  speakers: [ 1, 2 ]
+  speakers: [ 1, 2, 43 ]
   subtype: workshop
 -
   id: 221
@@ -169,14 +177,14 @@
   subtype: presentation
 -
   id: 245
-  title: "TBC"
-  subtype: tbc
-  speakers: [ ]
+  title: "The Find & Connect Map of Children's Homes"
+  subtype: presentation
+  speakers: [ 53, 54 ]
 -
   id: 255
   title: "Field Acquired Information Management Systems (FAIMS) Project"
   subtype: presentation
-  speakers: [ ]
+  speakers: [ 55 ]
 -
   id: 216
   title: "Getting Started with Deep Learning / ML4AU Community"
@@ -199,7 +207,7 @@
   service: true
 -
   id: 205
-  title: "Hacky Hour"
+  title: "Hacky Hour in gather.town"
   subtype: social
 -
   id: 301
@@ -209,17 +217,17 @@
 -
   id: 311
   title: "Data Visualisation in Python"
-  speakers: [ 1, 2 ]
+  speakers: [ 14, 1, 2 ]
   subtype: workshop
 -
   id: 321
-  title: "Data Viualisation in R"
+  title: "Data Visualisation in R"
   speakers: [ 3, 4, 5 ]
   subtype: workshop
 -
   id: 3311
   title: "TERN CoESRA VDI"
-  speakers: [ ]
+  speakers: [ 56 ]
   subtype: presentation
 -
   id: 3312
@@ -229,7 +237,7 @@
 -
   id: 3313
   title: "Dask Workshop"
-  subtype: tbc
+  subtype: workshop
   speakers: [ 33 ]
 -
   id: 341
@@ -238,9 +246,9 @@
   subtype: workshop
 -
   id: 3511
-  title: "Altair"
-  speakers: [ 35 ]
-  subtype: tbc
+  title: "Monarch: Data Prep & Predictive Modelling and Visualisation"
+  speakers: [ 57 ]
+  subtype: presentation
 -
   id: 3512
   title: "Short break"
@@ -248,9 +256,9 @@
   service: true
 -
   id: 3513
-  title: "REDCap Problem Solving Workshop"
-  subtype: workshop
-  speakers: [ 42 ]
+  title: "REDCap Tips & Tricks"
+  subtype: presentation
+  speakers: [ 7, 42 ]
 -
   id: 302
   title: "Lunch break"
@@ -263,13 +271,13 @@
   speakers: [ 35 ]
 -
   id: 314
-  title: "Maths Showcase"
-  subtype: tbc
-  speakers: [ ]
+  title: "Technical Computing with Matlab"
+  subtype: workshop
+  speakers: [ 58 ]
 -
   id: 334
-  title: "HPC Panel: NCI/Pawsey Researchers"
-  subtype: presentation
+  title: "HPC Researchers Panel"
+  subtype: tbc
   speakers: [ ]
 -
   id: 3441
@@ -280,9 +288,19 @@
   id: 3442
   title: "A Cloud-based Sensitive Data Platform"
   speakers: [ 37 ]
+  subtype: tbc
+-
+  id: 315
+  title: tbc
+  speakers: [  ]
+  subtype: tbc
+-
+  id: 325
+  title: Interactive Map Visualisation with R
+  speakers: [ 59 ]
   subtype: presentation
 -
-  id: 305
+  id: 335
   title: ORCID
   speakers: [ 38 ]
   subtype: presentation
@@ -290,7 +308,7 @@
   id: 316
   title: "Neuroscience/Bionics Using Julia"
   subtype: presentation
-  speakers: [ 39 ]
+  speakers: [ 12 ]
 -
   id: 336
   title: "Australian BioCommons"
@@ -298,7 +316,7 @@
   speakers: [ 40 ]
 -
   id: 346
-  title: "TBC"
+  title: "tbc"
   subtype: tbc
 -
   id: 356
@@ -313,5 +331,5 @@
   service: true
 -
   id: 307
-  title: "Hacky Hour"
+  title: "Hacky Hour in gather.town"
   subtype: social
