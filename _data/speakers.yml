@@ -3,50 +3,60 @@
   name: "Jianzhou"
   surname: "Zhao"
   institution: "Intersect"
-  thumbnailUrl: JianzhouZhao.jpg
+  thumbnailUrl: "JianzhouZhao.jpg"
   bio: "Dr Jianzhou Zhao is an eResearch Training Specialist, planning and delivering Intersect's training program for its members and partners. Jianzhou works collaboratively with universities help guide the development and deployment of relevant eResearch services; and, increase the visibility and acceptance of good eResearch practice across all areas. Jianzhou holds a PhD in Photovoltaics and Renewable Energy Engineering."
 - 
   id: 2
   name: "Andrew"
   surname: "Goh"
   institution: "Intersect"
+  thumbnailUrl: "AvatarPlaceholder.png"
 - 
   id: 3
   name: "Belinda"
   surname: "Fabian"
   institution: "Macquarie University"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 4 
   name: "Marium"
   surname: "Afzal Khan"
   institution: "Intersect"
   bio: "Marium Afzal Khan is the eResearch Analyst from Intersect at the University of Adelaide. She has over 7 years of experience incorporating technology and data analytics across multiple industries including education, health, governance and research. Marium has a background in computer science with a Masters in Educational Technology."
+  thumbnailUrl: "MariumAfzalKhan.jpg"
 - 
   id: 5
   name: "Jerry"
   surname: "Lai"
   institution: "Intersect"  
+  thumbnailUrl: "AvatarPlaceholder.png"
 - 
   id: 6
   name: "Sara"
   surname: "King"
   institution: "AARNet"
+  thumbnailUrl: "AvatarPlaceholder.png"
 - 
   id: 7
   name: "David"
   surname: "Jung"
   institution: "UNSW"
+  orcid: "0000-0003-1611-7644"
+  bio: "David Jung is Research Data Support Officer at the UNSW Sydney. He supports researchers navigate the policies, guidelines, and technologies in managing their research data. One of his roles is being a REDCap administrator: training, consulting and supporting the use of REDCap. He has recently taken interest in Public Health and enrolled into an MPH program."
+  thumbnailUrl: "DavidJung.jpg"
 - 
   id: 8
   name: "Aidan"
   surname: "Wilson"
   institution: "Intersect"
+  thumbnailUrl: "AvatarPlaceholder.png"
 - 
   id: 9
   name: "Weisi"
   surname: "Chen"
   institution: "Intersect"
   bio: "Weisi Chen is Intersect’s eResearch Analyst for University of Technology Sydney, his routine responsibilities include research support, as well as the UTS REDCap administrator. With more than nine years of eResearch experience, Weisi has expertise in a broad range of eResearch technologies."
+  thumbnailUrl: "WeisiChen.png"
 - 
   id: 10
   name: "Anastasios"
@@ -54,6 +64,7 @@
   institution: "Intersect"
   orcid: 0000-0002-8959-4559
   url: https://intersect.org.au/training/course/coding001/
+  thumbnailUrl: "Anastasios_ProfilePic.png"
 - 
   id: 11
   name: "Emmanual"
@@ -69,23 +80,23 @@
   institution: "UNSW"
   orcid: "0000-0002-1973-8211"
   bio: "Jason Potas is an inventor and neuroscientist working on sensory processing and pain. He is currently an Adjunct Senior Lecturer at UNSW and Director of Bionic Innovations."
-- 
-  id: 13
-  name: "Stats Central"
-  institution: "UNSW"
+  thumbnailUrl: "JasonPotas.jpg"
 - 
   id: 14
   name: "Abdullah Shaikh"
-  institution: "UNSW"
-- 
-  id: 15
-  name: "UNSW CodeRs"
-  institution: "UNSW"  
+  institution: "Intersect"
+  orcid: "0000-0002-5964-8464"
+  thumbnailUrl: "AbdullahShaikh.png"
+  bio: "Abdullah Shaikh is an eResearch Analyst at Intersect Australia (based at the University of New South Wales). He has a wealth of experience in delivering training courses on multiple programming languages and software like R, Python, MATLAB, Excel, and SPSS. His areas of interest are machine learning, data analysis, visualisations, and statistics. Abdullah has experience working with researchers with diverse backgrounds for over four years."
+  social:
+    name: "twitter"
+    link: "https://twitter.com/smabdullah1"
 - 
   id: 16
   name: "Tomasz"
   surname: "Bednarz"
   institution: "UNSW & CSIRO"
+  thumbnailUrl: "AvatarPlaceholder.png"
 - 
   id: 17
   name: "Alana"
@@ -95,7 +106,9 @@
   thumbnailUrl: "AlanaPiper.jpg"
   orcid: "0000-0002-9369-5862"
   bio: "Dr Alana Piper is a Chancellors Postdoctoral Research Fellow at the Australian Centre for Public history at UTS. Her research interests draw together the social and cultural history of crime with criminological, legal and digital humanities approaches. She has authored over 40 academic publications, and is currently a CI on the ARC Discovery project 'Sex and the Australian Military, 1914-2020' (2021-2023) and the ARC LIEF project 'Time-Layered Cultural Map of Australia' (2019-2021)."
-  twitter: "@alana_piper"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/alana_piper"
   url: "https://criminalcharacters.com/"  
 - 
   id: 18
@@ -105,7 +118,9 @@
   thumbnailUrl: "JessicaWilson.jpg"
   orcid: "0000-0002-2597-9927"
   bio: "Jess has a Bachelors degree in Psychology and is a project officer for Frances Kay-Lambkins research team where mental health and substance use dual diagnosis and the development of eHealth interventions are the primary focus. Jess's current research trials and project areas include suicide prevention, brain cancer caregiving, and depression and alcohol/other drug use. Jess will commence her PhD in trauma-informed care in late 2020."
-  twitter: "@JWilson_Tink"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/JWilson_Tink"
   url: "https://theloginlab.com/"
 - 
   id: 19
@@ -113,6 +128,13 @@
   surname: "MacIntyre"
   honorific: "Prof"
   institution: "UNSW"
+  rockstar: true
+  orcid: "0000-0002-3060-0555"
+  bio: "Raina MacIntyre (MBBS Hons 1, M App Epid, PhD, FRACP, FAFPHM) is Professor of Global Biosecurity, NHMRC Principal Research Fellow and Head of the Biosecurity Program at the Kirby Institute, UNSW, Australia. She leads a research program in control and prevention of infectious diseases, spanning vaccinology, pandemics, bioterrorism and emerging infections, and personal protective equipment. "
+  thumbnailUrl: "RainaMacIntyre.jpg"
+  social:
+    name: "Twitter"
+    link: "https://twitter.com/globalbiosec"
 - 
   id: 20
   name: "John"
@@ -121,7 +143,7 @@
   orcid: "0000-0003-4504-1124"
   bio: "John Zaitseff has been using and programming computers since his primary school purchased its first in the early 1980s.  Having studied Computer Engineering at UNSW, he has been involved with the Free / Open Source Software movement and with Linux in particular since 1993.  He has been teaching others the joys of these technologies since 2014."
   url: "https://www.zap.org.au/~john/"
-
+  thumbnailUrl: "AvatarPlaceholder.png"
 - 
   id: 21
   name: "Olga"
@@ -130,7 +152,9 @@
   thumbnailUrl: "OlgaBoichak.jpg"
   orcid: "0000-0001-6547-2015"
   bio: "Olga Boichak is a sociologist of media and culture and lecturer in Digital Cultures at the University of Sydney. She holds a Master of Public Administration and a PhD in Social Science from Syracuse University (USA), and her research interests span remote participation in military conflicts as well as networks, narratives, and cultures of activism in the digital age. Before joining the University of Sydney in 2019, Olga was a research assistant at the Center for Computational and Data Sciences (Syracuse University) and a visiting scholar at the Social Media Lab (Ryerson University, Canada). She is the Editor of the Digital War journal and her work has appeared, among others, in Big Data & Society, International Journal of Communication, Global Networks, Media, War & Conflict, and the Oxford Handbook of Sociology and Digital Media. In her free time, she enjoys running and spending time with her dachshunds, Penny and Lenny."
-  twitter: "@olgarithmic"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/olgarithmic"
   url: "https://doi.org/10.1111/glob.12342"
 - 
   id: 22
@@ -139,31 +163,41 @@
   institution: "Intersect"
   orcid: "0000-0002-6047-8722"
   bio: "I am the Intersect eResearch Analyst for Western Sydney University. I deliver training workshops and provide support on digital research tools. Previously I worked as Vice-Chancellor’s Postdoctoral Research Fellow at the University of Wollongong, and my research background is Computational Chemistry."
+  thumbnailUrl: "JeffWang.jpg"
 - 
   id: 23
   name: "Tim"
   surname: "Sheratt"
   honorific: "A/Prof"
   institution: "University of Canberra"
+  rockstar: false
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 24
   name: Jonathan
   surname: Garber
   institution: "Melbourne Data Analytics Platform"
-  thumbnailUrl: "JonathanGarber.jpg"
+  thumbnailUrl: "JonathanGarber.png"
   orcid: "0000-0001-6754-4748"
   bio: "I am a Physical Geographer/Environmental Scientist and Research Data Specialist. My professional goals are to critically examine and utilise cutting edge digital technologies to find novel solutions across domains, making these technologies and data analytic techniques more accessible to diverse users"
-  twitter: "@GeoGarber"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/GeoGarber"
 -
   id: 25
   name: "Sonia"
   surname: "Ramza"
   institution: "ARDC"
+  thumbnailUrl: "SoniaRamza.jpg"
+  bio: "Sonia is a Cloud Skills Specialist with the ARDC, working on training, user documentation and support initiatives. Previously she has worked in Researcher Training and Community Management roles in the Technology sector."
+  social:
+    name: "twitter"
+    link: "https://twitter.com/heysonia1"
 -
   id: 26
   name: "Titus"
   surname: "Tang"
-  institution: "Monash"
+  institution: "Monash University"
   thumbnailUrl: "TitusTang.jpg"
   orcid: 0000-0001-7496-1152
   bio: "Titus is a Deep Learning engineer and educator on the Monash Data Science and AI platform. He provides advice and hands-on assistance to researchers looking to apply deep learning and AI techniques to their research. Titus also leads various AI training events at Monash."
@@ -171,57 +205,75 @@
   id: 27
   name: "Tarun"
   surname: "Bonu"
-  institution: "Monash"
+  institution: "Monash University"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 28
   name: "Ann"
   surname: "Backhaus"
   institution: "Pawsey Supercomputing Centre"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 29
-  name: "Jinbo"
+  name: "Jingbo"
   surname: "Wang"
   institution: "NCI Australia"
-  thumbnailUrl: "JinboWang.jpg"
+  thumbnailUrl: "JingboWang.jpg"
   bio: "I am a geophysicist with expertise in numerical research, statistical analysis, and computational methods for simulation of earth science systems. With solid science and computational background, I am passionate to use data to get insights of the scientific problems. My research interests include designing data architecture and services to advance research support, building research metadata ecosystem to get insights on research networking, using AI tools to explore research topics and trends by analyzing rich publication literature to get the overview of research landscape in various areas."
 -
   id: 30
   name: "Sean"
   surname: "Grady"
   institution: "Intersect"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 31
   name: "Taren"
   surname: "Sanders"
   honorific: "Dr"
+  rockstar: true
   institution: "Australian Catholic University"
   orcid: "0000-0002-4504-6008"
   bio: "Dr Sanders is the Deputy Program Leader of the Motivation and Behaviour at the Institute for Positive Psychology and Education at the Australian Catholic University. His research focuses on the health of children and young people, including perspectives from public health and education."
-  twitter: "@tarensanders"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/tarensanders"
+  thumbnailUrl: "TarenSanders.jpg"
 -
   id: 32
   name: "Philip"
   surname: "Parker"
   honorific: "Prof"
+  rockstar: false
   institution: "Australian Catholic University"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 33
   name: "Genevieve"
   surname: "Buckley"
   bio: "Genevieve Buckley is a scientist and programmer based in Melbourne Australia. She builds software tools for scientific discovery. Currently, she works full time on Dask, a python library for distributed computation."
   thumbnailUrl: "GenevieveBuckley.jpg"
-  twitter: "@DataNerdery"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/DataNerdery"
   url: "https://docs.dask.org"
 -
   id: 34
   name: "Peta"
   surname: "Scott"
   institution: "Intersect"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 35
   name: "Nick"
   surname: "May"
-  institution: "Pawsey/ARDC"
+  institution: "CSIRO"
+  thumbnailUrl: "NickMay.png"
+  orcid: "https://orcid.org/0000-0002-1298-1622"
+  bio: "Nick is an accredited software engineer with over thirty years of Information Technology experience, across a variety of roles, languages, systems and domains. The last thirteen years have been spent in the research domain, partly in a software architecture research group, but mostly helping researchers with software and data projects and technology. More recently I have been actively engaged in the Research Software Engineering (RSE) community, as a member of the organising committee for the 2019 UK RSE conference, and as secretary of the RSE Association of Australian and New Zealand (rse-aunz.org)."
+  social:
+    name: "twitter"
+    link: "https://twitter.com/eResEngineer"
 -
   id: 36
   name: "Jake"
@@ -230,22 +282,18 @@
   thumbnailUrl: "JakeSurman.jpg"
   orcid: "0000-0003-0030-295X"
   bio: "Jake Surman has been supporting research at UNSW for over 20 years, from fixing dial-up modems to helping people manage terabytes of research data. Currently he works for Research Technology Services at UNSW in the Research Data Management (RDM@UNSW) team."
-
 -
   id: 37
   name: "Carina"
   surname: "Kemp"
   institution: "AARNet"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 38
   name: "Melroy"
   surname: "Almeida"
   institution: "AAF"
--
-  id: 39
-  note: "DUPLICATE - use 12 instead"
-  name: "Jason"
-  surname: "Potas"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 40
   name: "Melissa"
@@ -254,7 +302,9 @@
   thumbnailUrl: "MelissaBurke.jpg"
   bio: "Melissa is the Training and Communications Officer for Australian BioCommons. She has many years of experience in developing and delivering face-to-face and online training in bioinformatics with Australian BioCommons and EMBL-EBI. Melissa has a PhD in Molecular Parasitology from the University of Queensland."
   orcid: "0000-0002-5571-8664"
-  twitter: "@burkemlou"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/burkemlou"
   url: "https://biocommons.org.au"
 -
   id: 41
@@ -270,6 +320,7 @@
   name: "Aidan"
   surname: "Wilson"
   institution: "Intersect"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 43
   name: "Fiona"
@@ -278,24 +329,29 @@
   thumbnailUrl: "FionaJones.jpg"
   orcid: "0000-0003-1924-4198"
   bio: "Fiona is a Research Librarian providing research and teaching support to academics, researchers, and students. Fiona is helping other librarians develop data skills to build capacity for supporting researchers."
-  twitter: "@FionaJ_Lib"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/FionaJ_Lib"
 -
   id: 44
   name: "Jim"
   surname: "Whelan"
   honorific: "Prof"
   institution: "La Trobe University"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 45
   name: "Matthew"
   surname: "Lewsey"
   institution: "La Trobe University"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 46
   name: "Peter"
   surname: "Vuillermin"
   honorific: "Prof"
   institution: "Deakin University"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 47
   name: "Tom"
@@ -304,11 +360,14 @@
   thumbnailUrl: "TomHoneyman.jpg"
   orcid: "0000-0001-9448-4023"
   bio: "Tom is the program manager of the Software program at the ARDC. In this role he is overseeing the delivery of a program of activities to push for recognition of research software as a first-class output of research. As part of this work the ARDC has released a National Agenda for Research Software (bit.ly/rs-agenda) which lays out the actions that we as a sector need to take to achieve this recognition for research software."
-  twitter: "@TomHoneyman3"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/TomHoneyman3"
 -
   id: 48
   name: "Kat"
   institution: "University of Sydney"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 49
   name: "Hume"
@@ -317,22 +376,35 @@
   thumbnailUrl: "HumeWinzar.jpg"
   orcid: 0000-0001-7475-2641
   bio: "Director of the Bachelor of Business Analytics at Macquarie University, a recovering Marketing academic, and co-author of four best-selling textbooks on Statistics, Consumer Psychology and Marketing Research."
-  twitter: "@winzarh"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/winzarh"
 -
   id: 50
   name: "Abhay"
   surname: "Singh"
   institution: "Macquarie University"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 51
   name: "Claudia"
   surname: "Hillenbrand"
+  honorific: "A/Prof"
   institution: "UNSW"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 52
   name: "Anusuriya"
   surname: "Devaraju"
-  institution: ""
+  honorific: "Dr"
+  institution: "TERN"
+  rockstar: true
+  bio: "Anusuriya Devaraju is a Senior Data Innovation Manager at Terrestrial Ecosystem Research Network (TERN). She has conceptualized and led the management and development of several standard practices and technical solutions in Earth and Environmental Sciences, which have resulted in enhanced data management and discovery."
+  thumbnailUrl: "AnusuriyaDevaraju.jpg"
+  orcid: "0000-0003-0870-3192"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/anusuriya3880"
 -
   id: 53
   name: "Kirsten"
@@ -341,7 +413,9 @@
   thumbnailUrl: "KirstenWright.jpg"
   orcid: "0000-0001-7862-7012"
   bio: "Kirsten Wright is the Program Manager of the Find and Connect web resource, University of Melbourne. Prior to this, she held a number of roles at Victoria University and worked at the Public Record Office Victoria. Kirsten holds a BA in history and politics and a Master of Information Management and Systems, both from Monash University."
-  twitter: "@ktaines"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/ktaines"
   url: "https://www.findandconnect.gov.au/"
 -
   id: 54
@@ -353,14 +427,16 @@
   url: "http://map.findandconnect.gov.au/"
 -
   id: 55
-  name: "Crook"
-  surname: "Penny"
-  institution: "Macquarie"
+  name: "Penny"
+  surname: "Crook"
+  institution: "Macquarie University"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 56
   name: "Siddeswara"
   surname: "Guru"
   institution: "University of Queensland"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 57
   name: "Clinton"
@@ -375,6 +451,7 @@
   name: "Bradley"
   surname: "Horton"
   institution: "Mathworks"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 59
   name: "José"
@@ -382,8 +459,11 @@
   institution: "UNSW"
   orcid: "0000-0002-9554-3395"
   bio: "I am a Research Fellow at the Centre for Ecosystem Science in the School for Biological, Environmental and Earth Sciences at UNSW. I work with risk assessment for threatened species and ecosystems, maps of species and ecosystems and general applications of biodiversity informatics. I have 20 years of experience with programming (R, Python, PHP, JS,  Perl, etc), data management (SQL, XML and GraphQL) and geographical information systems. I have studied in Germany and Venezuela, and worked with the Venezuelan Institute for Scientific Research and the South African National Biodiversity Institute. Currently I am a member of the Red List of Ecosystem Thematic Group of the International Union for the Conservation of Nature."
-  twitter: "@jrfep"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/jrfep"
   url: "https://github.com/UNSW-codeRs/geospatial-data-in-R"
+  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 60
   name: "Foivos"
@@ -392,14 +472,29 @@
   thumbnailUrl: "FoivosDiakogiannis.jpg"
   orcid: "0000-0002-8788-8174"
   bio: "Xtronomer (aka former Astronomer - Ph.D. Gravitational Astrophysics, the University of Sydney), turned to data scientist.  I currently work as a Senior Research Fellow on Data Science, in the International Center for Radio Astronomy Research (UWA) where I work on all things data science. In particular, I specialize on Deep Learning applications of data science problems, from time series wave forecasting, to computer vision (remote sensing), to gravitational waves detection."
-  twitter: "@Foivos_Diak"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/Foivos_Diak"
   url: "https://blog.csiro.au/epaddock-farm-mapping-software/"
 -
   id: 61
   name: Gordana
-  surname: "Popovich"
+  surname: "Popovic"
   institution: "UNSW"
-  thumbnailUrl: "GordanaPopovich.jpg"
+  thumbnailUrl: "GordanaPopovic.jpg"
   orcid: "0000-0002-1376-1058"
   bio: "I am a statistical consultant at Stats Central UNSW. I spend my time training researchers in statistical methods and helping them with their statistics."
-  twitter: "@GordyPopovic"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/GordyPopovic"
+-
+  id: 62
+  name: "Liz"
+  surname: "Stokes"
+  institution: "ARDC"
+  thumbnailUrl: "Liz_Stokes_02.jpg"
+  orcid: "0000-0002-2973-5647"
+  bio: "Liz is a passionate supporter of ResBaz because it combines nerding out on computational skills in a fun and social community event. She works in the Skilled Workforce and Development Program for the Australian Research Data Commons and is a certified Carpentries Instructor and Trainer."
+  social:
+    name: "twitter"
+    link: "https://twitter.com/ragamouf"

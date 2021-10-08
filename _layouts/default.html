@@ -28,7 +28,7 @@ layout: compress
     	{% include speakers-modals.html %} 
     {% endif %} 
 
-    {% if page.permalink == '/schedule/' %}
+    {% if page.permalink == '/program/' %}
         {% include sessions-modals.html %} 
     {% endif %} 
 
@@ -88,7 +88,7 @@ layout: compress
                 var rockstarSpeakers = [
                     {% for speaker in site.data.speakers %}
                         {% if speaker.rockstar %}
-                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
+                        {name: "{{ speaker.honorific }} {{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.institution }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
                         {% endif %}
                     {% endfor %}
                 ];

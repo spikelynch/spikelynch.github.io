@@ -41,7 +41,7 @@
                                     {% endfor %} 
                                 {% else %}
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                                    <p class="position">{{ speaker.company }}</p>
+                                    <p class="position">{{ speaker.institution }}</p>
                                 {% endif %}
                             </ul>
                             <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Next</a>
@@ -50,8 +50,7 @@
                 </div>
                 {% endfor %}
             </div> 
-            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>     
-        </div>
+ß        </div>
     </div>
 </section>
 <!-- End Speakers List -->

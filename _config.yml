@@ -28,6 +28,7 @@ organizerEmail: "resbazsyd@gmail.com"
 organizerLogo: "/img/seo/ResBaz_transparent_cropped.png"
 organizerLink: "https://resbaz.github.io/resbaz2021/sydney"
 
+
 # Head
 metaKeywords: "event, research, library, digital, skills, eresearch"
 twitterAccount: "ResBazSyd"
@@ -46,8 +47,8 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/news/", text: "News"}
  - {permalink: "/getinvolved/", text: "Get involved"}
- - {permalink: "/schedule/", text: "Program"}
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/program/", text: "Program"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/code/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {permalink: "/getinvolved/", text: "Get involved"}
@@ -68,9 +69,19 @@ aboutTitle: "About ResBaz"
 aboutBlock:
  - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2021 will be a multi stream online event Tuesday 23-Thursday 25 November 2021. The program will feature key stories (like keynotes, but with a narrative!), workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Our program has dedicated streams for Compute, Humanities and Social Science, and Survey / Data Collection, as well as two streams for introductory programming skills, which are open to all, regardless of skill level or discipline. Lots of breaks, lots of opportunities to find your people across institutions and disciplines, and plenty of neat tricks and hacks to level up on your nerd skills." }
 
+
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "cloud_genomics.jpg"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Key Stories"
+rockstarSpeakersButtonText: "See all speakers"
+
 # Statistic Block
 statisticBlockImage: "mac2018_hall2.jpg"
 statisticBlock:
+ - {count: "58", specialCharacter: "", info: "speakers"}
+ - {count: "49", specialCharacter: "", info: "sessions"}
  - {count: "50", specialCharacter: "+", info: "hours", detail: "of researcher training"}
  - {count: "5", specialCharacter: "", info: "parallel tracks"}
 
@@ -115,7 +126,7 @@ blogTitle: "Latest news"
 blogCommentsEnabled: false
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "Volunteers"

@@ -1,17 +1,20 @@
 -
   id: 101
-  title: "Welcome to country + orientation"
+  title: "Acknowledgement of Country / Welcome to ResBaz Sydney! It Begins!"
   subtype: social
-  speakers: []
+  description: "What is ResBaz all about? What should a newcomer expect when you rock up to the 2021 Sydney ResBaz? This session will introduce you to the program and explain how to get the best out of your ResBaz week."
+  speakers: [ 62 ]
 -
   id: 102
   title: "Key Story 1: Epiwatch/AI"
   subtype: presentation
+  description: "The EPIWATCHTM ‘Global Eye’ monitors a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting using over 25 global languages including the major languages of Asia. We can tap into chatter in communities and local news reports to find out about outbreaks long before health officials are notified."
   speakers: [ 19 ]
 -
   id: 111
   title: "Learn to Program: Python"
   subtype: workshop
+  description: "Learn about the fundamental concepts in programming using Python and apply them to analyse a sample research dataset."
   speakers: [ 14, 1, 2 ]
 -
   id: 121
@@ -93,12 +96,12 @@
   description: "This presentation will examine crowdsourcing or citizen science - that is involving public volunteers in the completion of research tasks - as a method in the digital humanities. It will draw on my experiences in two such crowdsourcing projects, The Prosecution Project (https://prosecutionproject.griffith.edu.au/) and Criminal Characters (https://prosecutionproject.griffith.edu.au/). Topics covered will include rationale and ethics of crowdsourcing, platforms available for building projects, how to motivate volunteers and sharing the resulting research and data with the public."
 -
   id: 1541
-  title: "Research Imaging"
+  title: ""
   subtype: tbc
-  speakers: [ 51 ]
+  speakers: [  ]
 -
   id: 1442
-  title: "Researcher showcase"
+  title: ""
   subtype: tbc
   speakers: [ ]
 -
@@ -116,6 +119,7 @@
   id: 105
   title: "Hacky Hour in gather.town"
   subtype: social
+  description: "A social space for posters, networking and troubleshooting"
 -
   id: 201
   title: "Key Story 2: TERN: Ecosystem Research Infrastructure"
@@ -124,7 +128,8 @@
 -
   id: 211
   title: "Data Manipulation in Python"
-  speakers: [ 1, 2, 43 ]
+  speakers: [ 14, 1, 2, 43 ]
+  description: "Explore DataFrames in-depth and learn about Data Manipulation in Python using the Pandas library."
   subtype: workshop
 -
   id: 221
@@ -169,18 +174,19 @@
   subtype: presentation
 -
   id: 214
-  title: "Putting your research on the Map: An introduction to Geospatial data and whistlestop tour of some open source tools for spatial analysis and visualisation"
+  title: "Putting your research on the Map: An Introduction to Geospatial Data"
   speakers: [ 24 ]
   subtype: presentation
   description: "Are you having trouble navigating your spatial data? Then you have come to the right space! I will be introducing the basic concepts of geospatial data, as well as show a few open source tools to visualise and analyse Geospatial data using R, Python, and QGIS. This will allow you to find your own geospatial path and put your research on the map!"
 -
   id: 234
-  title: "Nectar Research Cloud"
+  title: "Come and Try the Nectar Cloud"
   speakers: [ 25 ]
+  description: "Heard about the Nectar Cloud but want to learn more? In this workshop you will get an overview of the Nectar Cloud's capabilities, and then try some new basic skills, including running an R studio application, and having a play in the Command Line. Note: This is not a full workshop, but like an information session with a small sample of basic Cloud skills."
   subtype: presentation
 -
   id: 215
-  title: "Field Boundaries: a Deep Learning journey from research to production"
+  title: "Field Boundaries: a Deep Learning Journey from Research to Production"
   speakers: [ 60 ]
   subtype: presentation
   description: "Agricultural field boundaries is an important problem for the digital agricultural services sector. Precise knowledge of the field distributions can help stakeholders across the agricultural sector to provide field based analytics for crop management and monitoring. In this talk I will present the rather long journey we followed in order to use Deep Learning to extract field boundaries from Sentinel 2 satellite images. I will describe the initial problems formulation, the research approach taken, some research results, and how all this evolved to a viable commercial product."
@@ -221,6 +227,7 @@
   id: 205
   title: "Hacky Hour in gather.town"
   subtype: social
+  description: "A social space for posters, networking and troubleshooting"
 -
   id: 301
   title: "How We Do Reproducible Research"
@@ -283,15 +290,16 @@
   id: 303
   title: "Lunchtime Sessions - Discovering Digital Research Training Events and Materials"
   subtype: presentation
+  description: "In this talk we will walk through the DReSA web application, including: how to search and filter training events and material, how to subscribe to updates, and how to find trainers and training providers in your area (geographic and academic)."
   speakers: [ 35 ]
 -
   id: 314
-  title: "Technical Computing with Matlab"
+  title: "Technical Computing with MATLAB"
   subtype: workshop
   speakers: [ 58 ]
 -
   id: 334
-  title: "HPC Researchers Panel"
+  title: ""
   subtype: tbc
   speakers: [ ]
 -
@@ -301,12 +309,12 @@
   subtype: presentation
 -
   id: 3442
-  title: "A Cloud-based Sensitive Data Platform"
-  speakers: [ 37 ]
+  title: ""
+  speakers: [  ]
   subtype: tbc
 -
   id: 315
-  title: tbc
+  title: ""
   speakers: [  ]
   subtype: tbc
 -
@@ -333,7 +341,7 @@
   speakers: [ 40 ]
 -
   id: 346
-  title: "tbc"
+  title: ""
   subtype: tbc
 -
   id: 356
@@ -350,3 +358,4 @@
   id: 307
   title: "Hacky Hour in gather.town"
   subtype: social
+  description: "A social space for posters, networking and troubleshooting"
