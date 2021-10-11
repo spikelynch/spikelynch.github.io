@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is a Hacky Hour and why do you have three?"
-date: 2021-10-09 00:00:00
+date: 2021-10-08 00:00:00
 image: laptop2.jpg
 isStaticPost: false
 ---

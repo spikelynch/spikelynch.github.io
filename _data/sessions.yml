@@ -23,7 +23,8 @@
   speakers: [ 3, 4, 5 ]
 -
   id: 1311
-  title: "BizData/MS Azure"
+  title: "Single Cell App"
+  description: "The Single Cell App is a cloud-based application that allows visualisation and comparison of scRNA-seq data and is scalable according to use. Users upload their own or publicly available scRNA-seq datasets after pre-processing to be visualised using a web browser. The data can be viewed in two colour modes, Cluster - representing cell identity, and Values – level of expression, and data queried using keyword or gene identification number(s). Using the app to compare four different studies we determined that some genes frequently used as cell-type markers are in fact study specific. These differences, identified using the Single Cell App, highlight the need for resources to enable researchers to find common and different patterns of cell specific gene expression. Thus, the Single Cell App enables researchers to form new hypothesis, perform comparative studies, allows for easy re-use of data for this emerging technology to provide novel avenues to crop improvement."
   speakers: [ 44, 45 ]
   subtype: presentation
 -
@@ -122,7 +123,8 @@
   description: "A social space for posters, networking and troubleshooting"
 -
   id: 201
-  title: "Key Story 2: TERN: Ecosystem Research Infrastructure"
+  title: "Key Story 2: Simple Steps to Effective Scientific Data Sharing"
+  description: "Data is an important research asset for the reproducibility of scientific results. However, researchers are often trapped in data sharing dilemmas caused due to several factors such as lack of awareness and support programs, variation in data sharing practices, privacy concerns, and discrepancies in incentives to collaborate around data between data creators, service providers, and users. This presentation will cover a set of simple steps to help researchers share their data effectively through open data repositories.  These steps are derived from my professional experience in provisioning and consuming research datasets over the last 15 years. They are based on generally applicable data characteristics and can be potentially applied at different stages of the research data lifecycle."
   subtype: presentation
   speakers: [ 52 ]
 -
@@ -170,6 +172,7 @@
 -
   id: 243
   title: "Key Story: Exploring Australian GLAM data"
+  description: "More and more institutions in the GLAM sector (Galleries, Libraries, Archives, and Museums) are sharing their collection data online, but what is it, and how do you use it? In this talk, I'll survey the types of data available – including metadata, images, OCRd text, and transcriptions – and explore possible research topics. Using tools and examples from the GLAM Workbench, I’ll show how GLAM data can be harvested, aggregated, analysed, and visualised. What can GLAM data tell us about Australian history, society, and culture?"
   speakers: [ 23 ]
   subtype: presentation
 -
@@ -198,8 +201,9 @@
   description: "This paper will discuss the development of the Find & Connect Map of Children’s Homes. The Find & Connect web resource provides information about the history of child welfare in Australia. It links together the histories of institutions who provided care with the archival records they created, and information about how these records can be accessed.<br /><br />The Map of Children’s Homes provides locations of over 2000 residential institutions for children in Australia from 1790-1990. Launched in 2019, it was the culmination of 18 months of research, technical development, and usability testing. It was developed collaboratively with people who grew up in out-of-home care and their support services.<br /><br />In this paper, we will discuss why a map was needed on Find & Connect, the research that was needed to put a map together, the technical features and issues, and reflect on some broader findings which have become apparent since going live."
 -
   id: 255
-  title: "Field Acquired Information Management Systems (FAIMS) Project"
+  title: "FAIMS 3.0: Electronic Field Notebooks project"
   subtype: presentation
+  description: "The Field Acquired Information Management Systems (FAIMS) Mobile Platform is open-source software for offline data collection built by researchers for researchers. First released in 2014 for Android only, the platform is currently undergoing a complete rebuild thanks to the Australian  Research Data Commons (ARDC) and co-investment from 19 partners (doi:10.47486/PL110). From June 2022, FAIMS 3.0 will support cross-platform data collection (Android, iOS and  desktop), offer more flexible synchronisation, integration with Cloudstor, a DIY option for customisation, and a sleek new look. In this talk, we will provide an introduction to the proposed software, the design choices we have made and the challenges of building complex software for the research sector from within it."
   speakers: [ 55 ]
 -
   id: 216

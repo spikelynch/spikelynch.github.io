@@ -3,8 +3,42 @@
   <channel>
     <title>ResBaz Sydney 2021</title>
     <description>A conference promoting digital literacy and skill-sharing for researchers</description>
-    <link>http://localhost:4000/resbaz2021/sydney/</link>
-    <atom:link href="http://localhost:4000/resbaz2021/sydney/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://resbaz.github.io/resbaz2021/sydney/</link>
+    <atom:link href="https://resbaz.github.io/resbaz2021/sydney/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Registrations are open! Join us!</title>
+        <description>&lt;p&gt;Woohoo! We are so proud to present our three day online program of talks, workshops and demonstrations for ResBaz Sydney 23-25 November 2021.&lt;/p&gt;
+
+&lt;p&gt;Our program has a dizzying array of informative sessions on programming tools, tips and tricks, compute platforms and practical guides to working with surveys and data collection.&lt;/p&gt;
+
+&lt;p&gt;ResBaz is not a typical academic conference. Instead of keynotes we invite people to share a keystory on a topic they’re passionate about and what got them there. The keystories start on Tuesday with Dr Taren Sanders and Prof Philip Parker (ACU) sharing how they do reproducible research, with a practical discussion of workflows and tools that you can use too. On Wednesday we have a double feature, starting with Dr Anusuriya Devaraju (UQ) on simple steps to effective scientific data sharing. Later in the day we will join QLD ResBaz for their livestream keystory A/Prof Tim Sherratt talking about his GLAM Workbench, and building tools to explore humanities datasets. Our final keystory on Thursday is Prof Raina MacIntyre (UNSW) from Epiwatch talking about using Artificial Intelligence to prevent the next pandemic.&lt;/p&gt;
+
+&lt;p&gt;Registration for ResBaz is slightly tricky, so we’ve staggered the process.&lt;/p&gt;
+
+&lt;p&gt;Step 1. We encourage all participants to &lt;a href=&quot;https://www.eventbrite.com.au/e/resbaz-sydney-2021-tickets-169068026017&quot;&gt;register for a general ticket&lt;/a&gt;, which will give you access to all the keystories, talks and practical demonstration, across all five streams. So you can dip in an out across the whole program. These sessions have a pretty large capacity, thanks to our awesome partner &lt;a href=&quot;https://www.aarnet.edu.au/&quot;&gt;AARNET&lt;/a&gt; who is providing the zoom.&lt;/p&gt;
+
+&lt;p&gt;Step 2. Sign up for individual workshops. This opens on Monday 18 October. Workshop seats are limited. In order to balance participation across our collaborating institutions, everyone joins a waitlist for each workshop. Tickets will be released a couple of weeks before ResBaz starts.&lt;/p&gt;
+
+&lt;p&gt;So what are you waiting for? Check out the &lt;a href=&quot;https://resbaz.github.io/resbaz2021/sydney/program/&quot;&gt;program&lt;/a&gt; and &lt;a href=&quot;https://www.eventbrite.com.au/e/resbaz-sydney-2021-tickets-169068026017&quot;&gt;join us&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Oct 2021 11:00:00 +1100</pubDate>
+        <link>https://resbaz.github.io/resbaz2021/sydney/news/registrations-open</link>
+        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/registrations-open</guid>
+      </item>
+    
+      <item>
+        <title>What is a Hacky Hour and why do you have three?</title>
+        <description>&lt;p&gt;A &lt;a href=&quot;https://github.com/amandamiotto/HackyHourHandbook/blob/master/Introduction.md&quot;&gt;hacky hour&lt;/a&gt; is an informal drop in space where people can rock up and get help with specialist tech and coding support. It’s a much more human oriented dynamic than filling out a ticket at a help desk, and in the before times, was often hosted by IT, eResearch or Library teams at a cafe or bar on campus. There’s something about the outdoor (or at the very least, out of the office) vibe and a smattering of laptops emblazoned with software stickers and coffee cups that is a lot less formidable than approaching the IT unit with the ominous hum of servers running in the background. Often software and data skills trainers would run a hacky hour to support their workshop program. Working on a problem in real time is better than a series of back and forth emails or tickets, no?&lt;/p&gt;
+
+&lt;p&gt;With the pandemic, hacky hours moved online, into zoom. Some even changed their name, because apparently not everyone wants to be a hacker. Maybe this will change with the new Matrix movie coming out. Also, I don’t even know if people still play hacky sack. It was a popular pastime at universities before smartphones were invented. Like hacky sack, hacky hours are designed for receiving problems and throwing them around until a solution is found. Sometimes the solution is ‘oh! It was the comma all along!’ Other times researchers drop in to say “I did everything the way we did it in the workshop but it is borked. Can you please help?” Some researchers come back regularly, to share progress and things they’ve made since. It’s really good then when they can help new novices.&lt;/p&gt;
+
+&lt;p&gt;ResBaz is actually brought to you by people who run hacky hours on the regular, so we wanted to include this in our program. Each afternoon at ResBaz from 3-4pm AEDT, we’ll open the doors to our &lt;a href=&quot;https://gather.town/app&quot;&gt;gather.town&lt;/a&gt; space so you can join in, and rock up to any of the hacky hour tables. Gather.town is a very cute interactive platform that looks like you’re in an 8-bit video game, inside a 1980s style conference venue. You can customise your avatar and walk around a map. When you’re near other people, gather turns on your video and mic so you can chat. Like a video game/conference IRL, you can choose where to go, no need for any breakout room choreography! We hope it will be a fun way to end each day, where you can meet other ResBazzers, chat about favourite tools, follow up with an interesting speaker, and ask the friendly support folk to troubleshoot your code.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Oct 2021 11:00:00 +1100</pubDate>
+        <link>https://resbaz.github.io/resbaz2021/sydney/news/hacky-hour</link>
+        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/hacky-hour</guid>
+      </item>
     
       <item>
         <title>Eep it's my first time teaching or presenting  online! </title>
@@ -15,8 +49,8 @@
 &lt;p&gt;We think that the best way to prepare you for contributing to ResBaz is to introduce you to this friendly community, share useful tips and tricks, and get to know a few familiar faces ahead of the main event. &lt;a href=&quot;https://www.eventbrite.com.au/e/carpentry-connect-australia-tickets-170400229674&quot;&gt;Please sign up here.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Sep 2021 10:00:00 +1000</pubDate>
-        <link>http://localhost:4000/resbaz2021/sydney/news/teaching-online</link>
-        <guid isPermaLink="true">http://localhost:4000/resbaz2021/sydney/news/teaching-online</guid>
+        <link>https://resbaz.github.io/resbaz2021/sydney/news/teaching-online</link>
+        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/teaching-online</guid>
       </item>
     
       <item>
@@ -24,8 +58,8 @@
         <description>&lt;p&gt;And we’re live! Despite the current lockdown, the team at ResBaz Sydney are very excited to be announcing our intentions to host a virtual ResBaz at the end of this year. Right now, we’re working on our program structure to make sure we retain the best of ResBaz community while running a virtual event. We’ve had a year of ‘pivoting online’ and ‘you’re on mute’ so honestly, the only way is up. Once our social infrastructure is confirmed, we’ll be putting out the word for volunteers to join in the fun. Submit a talk, offer to run a workshop, host a discussion panel or join us as a ResBazador!&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Jun 2021 18:00:00 +1000</pubDate>
-        <link>http://localhost:4000/resbaz2021/sydney/news/live</link>
-        <guid isPermaLink="true">http://localhost:4000/resbaz2021/sydney/news/live</guid>
+        <link>https://resbaz.github.io/resbaz2021/sydney/news/live</link>
+        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/live</guid>
       </item>
     
   </channel>

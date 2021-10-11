@@ -2,6 +2,15 @@
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
 
+        <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
+            <div class="col-lg-8 col-md-10 col-xs-12">
+
+            <p>Registrations are open! <strong><a href="https://resbazsydney2021.eventbrite.com.au/">Follow this link to register for general ResBaz Sydney 2021 attendance.</a></strong></p>
+
+            <p>Workshop registrations are limited and will open on Monday 18th Oct. Once workshop registration is open, you will be able to register your interest for a workshop by clicking on the individual workshop section in the program below. Workshops are highlighted in <span style="background: #ffcccc">red.</span></p>
+            </div>
+        </div>
+
 
         {% for day in site.data.schedule %}
         <table class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
@@ -47,6 +56,7 @@
                         {% if slot == session.id and session.service == null %}
                             <td class="slot session-{{session.subtype}}" colspan="{{ cs }}" rowspan="{{ rs }}" id="session-{{ session.id }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                     <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                    {% if session.subtype == "workshop" %} <p class="metadata">Workshop</p> {% endif %}
                                         <ul class="slot-speakers">
                                             {% for session_speaker in session.speakers %}
                                                 {% for speaker in site.data.speakers %}

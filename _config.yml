@@ -20,6 +20,10 @@ googleAnalyticsTrackingId: "xxxxxxxx"
 googleAnalyticsSiteUrl: "sydney.resbaz.com.au"
 siteVerification: "xxxxxxx"
 
+# Workshop registration note
+
+workshopRegisterNote: "<strong>Note</strong> you will need to register separately for this workshop"
+
 # Organizer Info
 organizerName: "ResBaz Sydney"
 organizerAlternateName: "ResBaz Sydney"
@@ -51,10 +55,10 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/code/", text: "Code of Conduct"}
 bottomNavigationLinks:
- - {permalink: "/getinvolved/", text: "Get involved"}
+ - {permalink: "/program/", text: "Register here"}
  - {link: "http://eepurl.com/hGWsUH", text: "Join our mailing list"}
 rightNavigationButtons:
- - {permalink: "/getinvolved/", text: "Get involved"}
+ - {permalink: "/program/", text: "Register here"}
  - {link: "http://eepurl.com/hGWsUH", text: "Join our mailing list"}
 
 # Hero Block
@@ -62,7 +66,7 @@ heroImage: "hero.jpg"
 heroTitle: "ResBaz Sydney 2021"
 eventDate: "Tue 23-Thu 25 November 2021"
 heroButtons:
- - {permalink: "/getinvolved/", text: "Get involved"}
+ - {permalink: "/program/", text: "Register here"}
 
 # About Block
 aboutTitle: "About ResBaz"
@@ -73,7 +77,7 @@ aboutBlock:
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "cloud_genomics.jpg"
-rockstarSpeakersCount: 3
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Key Stories"
 rockstarSpeakersButtonText: "See all speakers"
 

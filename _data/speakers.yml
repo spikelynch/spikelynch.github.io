@@ -170,8 +170,12 @@
   surname: "Sheratt"
   honorific: "A/Prof"
   institution: "University of Canberra"
-  rockstar: false
-  thumbnailUrl: "AvatarPlaceholder.png"
+  rockstar: true
+  bio: "Tim Sherratt is a historian and hacker who researches the possibilities and politics of digital cultural collections. Tim has worked across the cultural heritage sector and has been developing online resources relating to libraries, archives, museums and history since 1993. He's currently Associate Professor of Digital Heritage in the Centre for Creative and Cultural Research at the University of Canberra. You can find him at timsherratt.org or as @wragge on Twitter."
+  thumbnailUrl: "TimSherratt.png"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/wragge"
 -
   id: 24
   name: Jonathan
@@ -293,7 +297,13 @@
   name: "Melroy"
   surname: "Almeida"
   institution: "AAF"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  orcid: "0000-0003-3522-7849"
+  bio: "Melroy works at the Australian Access Federation looking after the Australian ORCID Consortium. When not working with ORCID related stuff, Melroy dabbles in other persistent identifiers."
+  thumbnailUrl: "MelroyAlmeida.png"
+  url: "https://orcid.org/"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/M3LROY"
 -
   id: 40
   name: "Melissa"
@@ -337,8 +347,11 @@
   name: "Jim"
   surname: "Whelan"
   honorific: "Prof"
+  bio: "Jim has made outstanding contributions to research and research training. He is a world leading expert in mitochondrial biology in plants, from biogenesis to function, mitochondrial signalling and the role of mitochondria in plant growth, development and stress resistance. He is an expert in phosphate nutrition in plants and leads efforts to develop crop plants that are less reliant on phosphate fertilizers, benefiting both producers and the environment."
   institution: "La Trobe University"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  url: "https://www.linkedin.com/in/james-whelan-faa-8872321b9"
+  orcid: "0000-0001-5754-025X"
+  thumbnailUrl: "JimWhelan.jpg"
 -
   id: 45
   name: "Matthew"
@@ -383,8 +396,14 @@
   id: 50
   name: "Abhay"
   surname: "Singh"
+  honorific: "A/Prof"
+  bio: "Assoc. Prof. Abhay Kumar Singh is a leading researcher in Data Science with a strong focus on multidisciplinary research in financial risk modelling, econometrics, education, and data analytics. His expertise in the field of empirical research has been demonstrated through industry-funded research projects, high impact publications and research-informed teaching. His research has been published in numerous high impact research outlets, including high-quality ABDC ranked A/A* journals. Abhay is a big believer in open-source software and has been using R for statistical computing, data analytics, machine learning and quantitative research for over ten years. He is also the author of the book “R in Finance & Economics: A Beginner’s Guide” and has extensive experience in training early career and experienced researchers in empirical research and data analytics."
   institution: "Macquarie University"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  thumbnailUrl: "AbhaySingh.png"
+  orcid: "0000-0002-3783-6325"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/aksingh1985"
 -
   id: 51
   name: "Claudia"
@@ -429,8 +448,15 @@
   id: 55
   name: "Penny"
   surname: "Crook"
+  honorific: "Dr"
   institution: "Macquarie University"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  orcid: 0000-0001-8509-7865
+  url: "https://faims.edu.au/"
+  bio: "Dr Penny Crook is a historical archaeologist who specialises in material-culture studies and digital data management. She is Co-Director of the FAIMS 3.0 project and was a founding member of the original FAIMS Leadership team between 2012 and 2014."
+  thumbnailUrl: "PennyCrook.png"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/pennyc1901"
 -
   id: 56
   name: "Siddeswara"
