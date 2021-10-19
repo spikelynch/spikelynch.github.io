@@ -248,9 +248,11 @@
   name: "Philip"
   surname: "Parker"
   honorific: "Prof"
-  rockstar: false
+  rockstar: true
+  bio: "Professor Phil Parker is the Deputy Director of the Institute for Positive Psychology and Education at the Australian Catholic University. He received his doctorate in Educational Psychology from the University of Sydney. His major research interest includes educational inequality, developmental transitions, and educational attainment."
   institution: "Australian Catholic University"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  orcid: "0000-0002-4604-8566"
+  thumbnailUrl: "PhilipParker.png"
 -
   id: 33
   name: "Genevieve"
@@ -524,3 +526,89 @@
   social:
     name: "twitter"
     link: "https://twitter.com/ragamouf"
+-
+  id: 63
+  name: "Karina"
+  surname: "Nunez"
+  thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 64
+  name: "Harshad"
+  surname: "Ranadive"
+  thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 65
+  name: "Junming"
+  surname: "Ho"
+  thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 66
+  name: "Samaneh Sadat"
+  surname: "Setayandeh"
+  thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 67
+  name: "Charlotte"
+  surname: "Page"
+  thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 68
+  name: "Natalie"
+  surname: "Wall"
+  thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 69
+  name: "Ewan"
+  surname: "Coopey"
+  institution: "Macquarie University"
+  bio: "Ewan is a Macquarie University Ancient History and Archaeology PhD candidate and casual academic researching the Roman army and inscriptions in the province of Dalmatia. He is also interested in the application of digital tools in archaeology, namely database design and data management for epigraphic and archaeological data."
+  orcid: "0000-0001-8633-6418"
+  thumbnailUrl: "EwanCoopey.jpg"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/EuuanXCVI"
+-
+  id: 70
+  name: "Olya"
+  surname: "Ryjenko"
+  thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 71
+  name: "Tim"
+  surname: "Keighley"
+  bio: "I have a background in data science and statistical programming. Currently working at Macquarie University as part of a team that creates online courses."
+  thumbnailUrl: "TimKeighley.jpg"
+  institution: "Macquarie University"
+-
+  id: 72
+  name: "David"
+  surname: "McFarlane"
+  thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 73
+  name: "Oksana"
+  surname: "Tkachenko"
+  institution: "UNSW"
+  thumbnailUrl: "OksanaTkachenko.jpg"
+-
+  id: 74
+  name: "Svetlana"
+  surname: "Tkachenko"
+  thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 75
+  name: "George"
+  surname: "Milunovich"
+  bio: "I work in the areas of Predictive Analytics, Forecasting, Econometrics and Empirical Finance. In my research I investigate a wide range of issues such as interdependences between various financial markets, modelling of volatility, and the identification of structural/causal models. In recent work I incorporate machine learning methods into econometric and time series forecasts."
+  orcid: "0000-0003-0697-0684"
+  institution: "Macquarie University"
+  thumbnailUrl: "GeorgeMilunovich.jpg"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/geolunar"
+-
+  id: 76
+  name: "Michael"
+  surname: "Falk"
+  institution: "University of Sydney"
+  thumbnailUrl: "AvatarPlaceholder.png"

@@ -5,9 +5,11 @@
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
             <div class="col-lg-8 col-md-10 col-xs-12">
 
-            <p>Registrations are open! <strong><a href="https://resbazsydney2021.eventbrite.com.au/">Follow this link to register for general ResBaz Sydney 2021 attendance.</a></strong></p>
+            <p class="registration-blurb">Registrations are open! <strong><a href="https://resbazsydney2021.eventbrite.com.au/">Follow this link to register for general ResBaz Sydney 2021 attendance.</a></strong></p>
 
-            <p>Workshop registrations are limited and will open on Monday 18th Oct. Once workshop registration is open, you will be able to register your interest for a workshop by clicking on the individual workshop section in the program below. Workshops are highlighted in <span style="background: #ffcccc">red.</span></p>
+            <p>Workshop registrations are now open! Note that workshop seats are limited. In order to balance participation across our collaborating institutions, registration will add you to a waitlist for each workshop. Tickets will be released a couple of weeks before ResBaz starts.</p>
+
+            <p>To register your interest and join the waitlist for a workshop, click the 'Register' link on the program or the pop-up item. Workshops are highlighted in <span style="background: #ffcccc">red.</span></p>
             </div>
         </div>
 
@@ -56,7 +58,7 @@
                         {% if slot == session.id and session.service == null %}
                             <td class="slot session-{{session.subtype}}" colspan="{{ cs }}" rowspan="{{ rs }}" id="session-{{ session.id }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                     <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
-                                    {% if session.subtype == "workshop" %} <p class="metadata">Workshop</p> {% endif %}
+                                    {% if session.subtype == "workshop" %} <p class="metadata"><strong><a href="{{ session.registerUrl }}" target="_blank">Register</a></strong></p> {% endif %}
                                         <ul class="slot-speakers">
                                             {% for session_speaker in session.speakers %}
                                                 {% for speaker in site.data.speakers %}

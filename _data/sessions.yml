@@ -8,19 +8,22 @@
   id: 102
   title: "Key Story 1: Epiwatch/AI"
   subtype: presentation
-  description: "The EPIWATCHTM ‘Global Eye’ monitors a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting using over 25 global languages including the major languages of Asia. We can tap into chatter in communities and local news reports to find out about outbreaks long before health officials are notified."
+  description: "The EPIWATCH (TM) ‘Global Eye’ monitors a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting using over 25 global languages including the major languages of Asia. We can tap into chatter in communities and local news reports to find out about outbreaks long before health officials are notified."
   speakers: [ 19 ]
 -
   id: 111
   title: "Learn to Program: Python"
   subtype: workshop
+  registerUrl: https://www.eventbrite.com.au/e/191362358967
   description: "Learn about the fundamental concepts in programming using Python and apply them to analyse a sample research dataset."
-  speakers: [ 14, 1, 2 ]
+  speakers: [ 14, 1, 2, 67 ]
 -
   id: 121
   title: "Learn to Program: R"
   subtype: workshop
-  speakers: [ 3, 4, 5 ]
+  description: "Learn about the fundamental concepts in programming using R and apply them to analyse a sample research dataset."
+  registerUrl: https://www.eventbrite.com.au/e/191376932557
+  speakers: [ 3, 4, 5, 68 ]
 -
   id: 1311
   title: "Single Cell App"
@@ -38,14 +41,18 @@
   subtype: presentation
 -
   id: 141
-  title: "Introduction to Jupyter Notebooks"
+  title: "Introduction to CloudStor & Jupyter Notebooks"
   subtype: workshop
-  speakers: [ 6, 43 ]
+  registerUrl: https://www.eventbrite.com.au/e/191384625567
+  description: "Learn about the CloudStor interface and its associated tools and services for managing research data, including SWAN, a cloud service for interactive data analysis using Jupyter Notebooks."
+  speakers: [ 6, 43, 69 ]
 -
   id: 151
   title: "Data Capture and Surveys with REDCap"
   subtype: workshop
-  speakers: [ 7, 8, 9 ]
+  registerUrl: https://www.eventbrite.com.au/e/191391415877
+  description: "Learn about building an electronic data capture form, enabling survey settings, simple longitudinal project setup and access provisions"
+  speakers: [ 7, 8, 9, 70 ]
 -
   id: 103
   title: "Lunch Break"
@@ -68,6 +75,11 @@
   title: "Modelling the Future of Surface"
   subtype: presentation
   speakers: [ 48 ]
+-
+  id: 1331
+  title: ""
+  subtype: tbc
+  speakers: [ ]
 -
   id: 143
   title: "Practical Study Design"
@@ -132,29 +144,36 @@
   title: "Data Manipulation in Python"
   speakers: [ 14, 1, 2, 43 ]
   description: "Explore DataFrames in-depth and learn about Data Manipulation in Python using the Pandas library."
+  registerUrl: https://www.eventbrite.com.au/e/191395809017
   subtype: workshop
 -
   id: 221
   title: "Data Manipulation in R"
-  speakers: [ 3, 4, 5 ]
+  speakers: [ 3, 4, 5, 71 ]
+  description: "Learn about Data Manipulation and Data Transformation in R using the dplyr and tidyr packages."
+  registerUrl: https://www.eventbrite.com.au/e/191401255307
   subtype: workshop
 -
   id: 231
   title: "Introduction to Linux and High Performance Computing"
-  speakers: [ 20 ]
+  speakers: [ 20, 72, 73, 74 ]
   subtype: workshop
+  registerUrl: https://www.eventbrite.com.au/e/185375752867
   description: "This three-hour hands-on tutorial teaches the fundamentals of using Linux and High Performance Computing, using the NCI Gadi HPC system."
 -
   id: 241
   title: "Mapping the National Web: Tools and Approaches"
-  speakers: [ 21 ]
+  speakers: [ 21, 69 ]
   subtype: workshop
+  registerUrl: https://www.eventbrite.com.au/e/191404685567
   description: "National web is a series of interlinked online spaces generated and visited by users who share a common national identity, language, and/or interest in a particular country. A wealth of textual and visual data, produced in the process of mediated communication among networked actors, turn social media into an entry point for mapping national webs. Exploring hyperlinking behaviours among actors of interest in this space allows to identify key events and issues that drive mobilisation among the networked publics, as well as map distinct web spheres that mediate online users’ relationships to various local, national, and transnational entities. This workshop offers a combination of qualitative and computational methods to map the national web and would be of interest to those studying cross-platform mobilisation in a variety of contexts, including social movements, migration and diasporas, influence operations and disinformation campaigns, among others."
 -
   id: 251
   title: "Surveying with Qualtrics"
-  speakers: [ 8, 7, 22 ]
+  speakers: [ 8, 7, 22, 70 ]
   subtype: workshop
+  description: "Needing to collect data from people in a structured and intuitive way? Have you thought about using Qualtrics? Qualtrics in a powerful cloud-based survey tool, ideal for social scientists from all disciplines. This course will introduce the technical components of the whole research workflow from building a survey to analysing the results using Qualtrics. We will discover the numerous design elements available in order to get the most useful results and make life as easy as can be for your respondents. If your institution has a licence to Qualtrics, then this course is right for you."
+  registerUrl: https://www.eventbrite.com.au/e/191407915227
 -
   id: 212
   title: "Lunch break"
@@ -167,8 +186,9 @@
   service: true
 -
   id: 213
-  title: "Lunchtime Sessions"
-  subtype: social
+  title: "Lunch break"
+  subtype: break
+  service: true
 -
   id: 243
   title: "Key Story: Exploring Australian GLAM data"
@@ -241,13 +261,17 @@
 -
   id: 311
   title: "Data Visualisation in Python"
-  speakers: [ 14, 1, 2 ]
+  speakers: [ 14, 1, 2, 75 ]
   subtype: workshop
+  description: "Learn about Data Visualisation in Python using the Matplotlib and seaborn libraries."
+  registerUrl: https://www.eventbrite.com.au/e/191415186977
 -
   id: 321
   title: "Data Visualisation in R"
-  speakers: [ 3, 4, 5 ]
+  speakers: [ 3, 4, 5, 71 ]
   subtype: workshop
+  description: "Learn about Data Visualisation in R using ggplot2, one of the most popular plotting packages."
+  registerUrl: https://www.eventbrite.com.au/e/191416892077
 -
   id: 3311
   title: "TERN CoESRA VDI"
@@ -263,12 +287,15 @@
   title: "Dask Workshop: Intro to Dask DataFrames"
   description: "Dask is a parallel computing library that scales the existing Python ecosystem. Dask can scale down to your laptop and up to a cluster. This tutorial will introduce Dask and parallel data analysis with dataframes (tabular data). Prerequisites for this workshop are basic/intermediate knowledge of Python, Jupyter notebooks, and pandas dataframes. We will use a small subset of the tutorial materials available here: https://github.com/dask/dask-tutorial"
   subtype: workshop
-  speakers: [ 33 ]
+  registerUrl: https://www.eventbrite.com.au/e/191423511877
+  speakers: [ 33, 72, 73, 74 ]
 -
   id: 341
   title: "Getting Started with NVivo"
-  speakers: [ 30, 34 ]
+  speakers: [ 30, 34, 68 ]
   subtype: workshop
+  description: "Does your research see you working through unstructured and non-numerical data? With the ability to collect, store and analyse different data types all in one location makes, it’s easy to see why NVivo is becoming the tool of choice for many researchers."
+  registerUrl: https://www.eventbrite.com.au/e/191419038497
 -
   id: 3511
   title: "Extracting and Transforming/Preparing data with No Coding"
@@ -282,8 +309,9 @@
   service: true
 -
   id: 3513
-  title: "REDCap Tips & Tricks"
+  title: "REDCap Showcase"
   subtype: presentation
+  description: "This presentation will demonstrate a number of in-flight research projects using an extensive REDCap feature set, such as randomisation, advanced reporting (e.g., enrolment tracking) and automated notifications via email and SMS. It will be a great opportunity to be inspired by a range of advanced REDCap features that enable real-life research projects."
   speakers: [ 7, 42 ]
 -
   id: 302
@@ -295,17 +323,18 @@
   title: "Lunchtime Sessions - Discovering Digital Research Training Events and Materials"
   subtype: presentation
   description: "In this talk we will walk through the DReSA web application, including: how to search and filter training events and material, how to subscribe to updates, and how to find trainers and training providers in your area (geographic and academic)."
-  speakers: [ 35 ]
+  speakers: [ 35, 10 ]
 -
   id: 314
   title: "Technical Computing with MATLAB"
   subtype: workshop
+  registerUrl: https://www.eventbrite.com.au/e/181450371947
   speakers: [ 58 ]
 -
   id: 334
-  title: ""
-  subtype: tbc
-  speakers: [ ]
+  title: "HPC Researchers Panel"
+  subtype: presentation
+  speakers: [ 63, 64, 65, 66 ]
 -
   id: 3441
   title: "Online Transcription Tips & Tricks"
@@ -358,6 +387,11 @@
   title: "Short break"
   subtype: break
   service: true
+-
+  id: 357
+  title: "Heurist: a Unique Solution to the Data Management Needs of Humanities Researchers"
+  subtype: presentation
+  speakers: [ 76 ]
 -
   id: 307
   title: "Hacky Hour in gather.town"

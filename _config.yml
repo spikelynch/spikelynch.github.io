@@ -50,16 +50,16 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/news/", text: "News"}
- - {permalink: "/getinvolved/", text: "Get involved"}
+ - {permalink: "/posters/", text: "Posters"}
  - {permalink: "/program/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/code/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {permalink: "/program/", text: "Register here"}
- - {link: "http://eepurl.com/hGWsUH", text: "Join our mailing list"}
+ - {permalink: "/posters/", text: "Posters"}
 rightNavigationButtons:
  - {permalink: "/program/", text: "Register here"}
- - {link: "http://eepurl.com/hGWsUH", text: "Join our mailing list"}
+ - {permalink: "/posters/", text: "Posters"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -84,7 +84,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Statistic Block
 statisticBlockImage: "mac2018_hall2.jpg"
 statisticBlock:
- - {count: "58", specialCharacter: "", info: "speakers"}
+ - {count: "58", specialCharacter: "", info: "presenters"}
  - {count: "49", specialCharacter: "", info: "sessions"}
  - {count: "50", specialCharacter: "+", info: "hours", detail: "of researcher training"}
  - {count: "5", specialCharacter: "", info: "parallel tracks"}

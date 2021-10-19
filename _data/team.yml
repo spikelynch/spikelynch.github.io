@@ -48,6 +48,12 @@
   thumbnailUrl: Anastasios_ProfilePic.png
   team: true
 - 
+  id: 9
+  name: "Abdullah Shaikh"
+  title: "Intersect"
+  thumbnailUrl: "AbdullahShaikh.png"
+  team: true
+- 
   id: 6
   name: "Liz"
   surname: "Stokes"

@@ -25,7 +25,7 @@
 						{% endif %}
 						<p class="theme-description">{{ session.description }}</p>
 						{% if session.subtype == "workshop" %}
-						<p class="theme-metadata"><strong>Note:</strong> workshops are not covered by general registration. Places for workshops are limited and will open on Monday 18th October. A registration link for this workshop will be available here at that date.</p>
+						<p class="theme-metadata"><strong>Note:</strong> workshops are not covered by general registration and places for workshops are limited. <strong><a href="{{ session.registerUrl }}" target="_blank">Register your interest here.</a></strong></p>
                         {% endif %}
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
