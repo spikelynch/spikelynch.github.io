@@ -32,18 +32,18 @@
       sessionIds: [ 1312 ]
     }
     - {
-      startTime: "12:00",
+      startTime: "11:30",
       endTime:   "12:30",
       sessionIds: [ 1313 ]
     }
     - {
       startTime: "12:30",
-      endTime:   "12:45",
+      endTime:   "13:00",
       sessionIds: [ 103 ],
       cols: [ 5 ]
     }
     - {
-      startTime: "12:30",
+      startTime: "12:45",
       endTime:   "13:00",
       sessionIds: [ 1031 ],
       cols: [ 5 ]

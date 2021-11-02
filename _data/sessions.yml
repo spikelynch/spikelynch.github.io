@@ -168,7 +168,7 @@
 -
   id: 251
   title: "Surveying with Qualtrics"
-  speakers: [ 8, 7, 22, 70 ]
+  speakers: [ 8, 7, 22 ]
   subtype: workshop
   description: "Needing to collect data from people in a structured and intuitive way? Have you thought about using Qualtrics? Qualtrics in a powerful cloud-based survey tool, ideal for social scientists from all disciplines. This course will introduce the technical components of the whole research workflow from building a survey to analysing the results using Qualtrics. We will discover the numerous design elements available in order to get the most useful results and make life as easy as can be for your respondents. If your institution has a licence to Qualtrics, then this course is right for you."
   registerUrl: https://www.eventbrite.com.au/e/191407915227
@@ -313,7 +313,7 @@
   title: "REDCap Showcase"
   subtype: presentation
   description: "This presentation will demonstrate a number of in-flight research projects using an extensive REDCap feature set, such as randomisation, advanced reporting (e.g., enrolment tracking) and automated notifications via email and SMS. It will be a great opportunity to be inspired by a range of advanced REDCap features that enable real-life research projects."
-  speakers: [ 7, 42 ]
+  speakers: [ 7, 42, 70 ]
 -
   id: 302
   title: "Lunch break"
