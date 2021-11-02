@@ -14,7 +14,6 @@
   id: 111
   title: "Learn to Program: Python"
   subtype: workshop
-  registerUrl: https://www.eventbrite.com.au/e/191362358967
   description: "Learn about the fundamental concepts in programming using Python and apply them to analyse a sample research dataset."
   speakers: [ 14, 1, 2, 67 ]
 -
@@ -22,7 +21,6 @@
   title: "Learn to Program: R"
   subtype: workshop
   description: "Learn about the fundamental concepts in programming using R and apply them to analyse a sample research dataset."
-  registerUrl: https://www.eventbrite.com.au/e/191376932557
   speakers: [ 3, 4, 5, 68 ]
 -
   id: 1311
@@ -85,6 +83,8 @@
   title: "Practical Study Design"
   subtype: presentation
   speakers: [ 61 ]
+  logo: "stats_central.png"
+  logoUrl: "https://www.analytical.unsw.edu.au/facilities/stats-central"
   description: "Study design is a vital (and often overlooked) part of successful research. We will cover the important aspects of designing experiments and studies, including calculating appropriate sample sizes and randomisation, implemented in R."
 -
   id: 114
@@ -144,14 +144,12 @@
   title: "Data Manipulation in Python"
   speakers: [ 14, 1, 2, 43 ]
   description: "Explore DataFrames in-depth and learn about Data Manipulation in Python using the Pandas library."
-  registerUrl: https://www.eventbrite.com.au/e/191395809017
   subtype: workshop
 -
   id: 221
   title: "Data Manipulation in R"
   speakers: [ 3, 4, 5, 71 ]
   description: "Learn about Data Manipulation and Data Transformation in R using the dplyr and tidyr packages."
-  registerUrl: https://www.eventbrite.com.au/e/191401255307
   subtype: workshop
 -
   id: 231
@@ -240,7 +238,7 @@
 -
   id: 246
   title: "Survey Tools in Research: REDCap and Qualtrics"
-  speakers: [ 8, 30, 9 ]
+  speakers: [ 8, 9 ]
   subtype: presentation
 -
   id: 237
@@ -264,14 +262,12 @@
   speakers: [ 14, 1, 2, 75 ]
   subtype: workshop
   description: "Learn about Data Visualisation in Python using the Matplotlib and seaborn libraries."
-  registerUrl: https://www.eventbrite.com.au/e/191415186977
 -
   id: 321
   title: "Data Visualisation in R"
   speakers: [ 3, 4, 5, 71 ]
   subtype: workshop
   description: "Learn about Data Visualisation in R using ggplot2, one of the most popular plotting packages."
-  registerUrl: https://www.eventbrite.com.au/e/191416892077
 -
   id: 3311
   title: "TERN CoESRA VDI"
@@ -292,7 +288,7 @@
 -
   id: 341
   title: "Getting Started with NVivo"
-  speakers: [ 30, 34, 68 ]
+  speakers: [ 34, 68 ]
   subtype: workshop
   description: "Does your research see you working through unstructured and non-numerical data? With the ability to collect, store and analyse different data types all in one location makes, it’s easy to see why NVivo is becoming the tool of choice for many researchers."
   registerUrl: https://www.eventbrite.com.au/e/191419038497
@@ -302,6 +298,11 @@
   speakers: [ 57 ]
   subtype: presentation
   description: "Researchers and scientists is an extremely diverse community and Humanities/Social Sciences itself may include Psychology, Sociology, Political Science, Linguistics, Social Work, Anthropology. Other fields, though recognized to be in their own, may still loosely fall under Humanities/Social Sciences such as History, Economics, Education, Law, Geography, not to mention Medical Science research. In all these areas, data are important for empirical studies, to develop theories, to validate or invalidate existing theories. Researchers often learn new computing technology or coding to extract, prepare and transform data. Many hours and effort are spend developing IT skills just to get the data in the right form, instead of developing their scientific skills. Monarch is the tool that has saved hours and days of tedious data preparation work for over 30 years in the commercial sector. It would no doubt be as helpful for researchers today who are faced with ever increasing volumes of data."
+-
+  id: 3510
+  title: ""
+  subtype: tbc
+  speakers: [ ]
 -
   id: 3512
   title: "Short break"
@@ -334,7 +335,7 @@
   id: 334
   title: "HPC Researchers Panel"
   subtype: presentation
-  speakers: [ 63, 64, 65, 66 ]
+  speakers: [ 28, 65, 66, 77 ]
 -
   id: 3441
   title: "Online Transcription Tips & Tricks"

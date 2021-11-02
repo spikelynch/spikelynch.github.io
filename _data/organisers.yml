@@ -1,6 +1,7 @@
 - 
   group: "Organisers"
   elements: 
+    - {name: "AARNet", link: "https://www.aarnet.edu.au", imageUrl: "AARNet_logo.svg"}
     - {name: "ARDC", link: "https://ardc.edu.au", imageUrl: "ARDC_logo.png" }
     - {name: "Intersect", link: "https://intersect.org.au", imageUrl: "Intersect_logo.png" }
     - {name: "Macquarie&nbsp;University", link: "https://www.mq.edu.au", imageUrl: "Macquarie_logo.png" }

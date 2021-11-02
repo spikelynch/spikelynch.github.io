@@ -58,7 +58,7 @@
                         {% if slot == session.id and session.service == null %}
                             <td class="slot session-{{session.subtype}}" colspan="{{ cs }}" rowspan="{{ rs }}" id="session-{{ session.id }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                     <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
-                                    {% if session.subtype == "workshop" %} <p class="metadata"><strong><a href="{{ session.registerUrl }}" target="_blank">Register</a></strong></p> {% endif %}
+                                    {% if session.subtype == "workshop" and session.registerUrl != null %} <p class="metadata"><strong><a href="{{ session.registerUrl }}" target="_blank">Register</a></strong></p> {% endif %}
                                         <ul class="slot-speakers">
                                             {% for session_speaker in session.speakers %}
                                                 {% for speaker in site.data.speakers %}

@@ -381,6 +381,7 @@
 -
   id: 48
   name: "Kat"
+  surname: "Redzikultsava"
   institution: "University of Sydney"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
@@ -401,7 +402,7 @@
   honorific: "A/Prof"
   bio: "Assoc. Prof. Abhay Kumar Singh is a leading researcher in Data Science with a strong focus on multidisciplinary research in financial risk modelling, econometrics, education, and data analytics. His expertise in the field of empirical research has been demonstrated through industry-funded research projects, high impact publications and research-informed teaching. His research has been published in numerous high impact research outlets, including high-quality ABDC ranked A/A* journals. Abhay is a big believer in open-source software and has been using R for statistical computing, data analytics, machine learning and quantitative research for over ten years. He is also the author of the book “R in Finance & Economics: A Beginner’s Guide” and has extensive experience in training early career and experienced researchers in empirical research and data analytics."
   institution: "Macquarie University"
-  thumbnailUrl: "AbhaySingh.png"
+  thumbnailUrl: "AbhaySingh.jpg"
   orcid: "0000-0002-3783-6325"
   social:
     name: "twitter"
@@ -455,7 +456,7 @@
   orcid: 0000-0001-8509-7865
   url: "https://faims.edu.au/"
   bio: "Dr Penny Crook is a historical archaeologist who specialises in material-culture studies and digital data management. She is Co-Director of the FAIMS 3.0 project and was a founding member of the original FAIMS Leadership team between 2012 and 2014."
-  thumbnailUrl: "PennyCrook.png"
+  thumbnailUrl: "PennyCrook.jpg"
   social:
     name: "twitter"
     link: "https://twitter.com/pennyc1901"
@@ -479,6 +480,7 @@
   name: "Bradley"
   surname: "Horton"
   institution: "Mathworks"
+  bio: "Bradley Horton is a member of the Academic Customer Success team at MathWorks, helping faculty members better utilize MATLAB and Simulink for education and research. Bradley has supported and consulted for clients on projects in process control engineering, power systems simulation, military operations research, and earthquake impact modelling. Before joining MathWorks, Brad spent 5 years as a systems engineer with the Defence Science & Technology Organisation (DSTO) working as an operations research analyst. Bradley holds a B.Eng. in Mechanical engineering and a B.Sc. in Applied mathematics."
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 59
@@ -511,7 +513,7 @@
   institution: "UNSW"
   thumbnailUrl: "GordanaPopovic.jpg"
   orcid: "0000-0002-1376-1058"
-  bio: "I am a statistical consultant at Stats Central UNSW. I spend my time training researchers in statistical methods and helping them with their statistics."
+  bio: "I am a statistical consultant at UNSW Stats Central. I spend my time training researchers in statistical methods and helping them with their statistics."
   social:
     name: "twitter"
     link: "https://twitter.com/GordyPopovic"
@@ -532,11 +534,6 @@
   surname: "Nunez"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
-  id: 64
-  name: "Harshad"
-  surname: "Ranadive"
-  thumbnailUrl: "AvatarPlaceholder.png"
--
   id: 65
   name: "Junming"
   surname: "Ho"
@@ -545,16 +542,19 @@
   id: 66
   name: "Samaneh Sadat"
   surname: "Setayandeh"
+  institution: ""
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 67
   name: "Charlotte"
   surname: "Page"
+  institution: "UNSW"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 68
   name: "Natalie"
   surname: "Wall"
+  institution: "University of Newcastle"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 69
@@ -571,6 +571,7 @@
   id: 70
   name: "Olya"
   surname: "Ryjenko"
+  institution: "University of Sydney"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 71
@@ -583,6 +584,7 @@
   id: 72
   name: "David"
   surname: "McFarlane"
+  institution: "UNSW"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 73
@@ -594,6 +596,7 @@
   id: 74
   name: "Svetlana"
   surname: "Tkachenko"
+  institution: "UNSW"  
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 75
@@ -611,4 +614,9 @@
   name: "Michael"
   surname: "Falk"
   institution: "University of Sydney"
+  thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 77
+  name: "Duncan"
+  surname: "Smith"
   thumbnailUrl: "AvatarPlaceholder.png"
