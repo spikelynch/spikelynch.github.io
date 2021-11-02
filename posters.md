@@ -14,7 +14,7 @@ Posters will be displayed during the ResBaz Hacky Hour in gather.town and people
 
 #### How to submit your poster
 
-Follow the link to the poster template (coming soon). Duplicate the poster slide template on the next page: Right click + select ‘Duplicate slide’ (Please don’t edit the template - keep slide 2 generic so others can use it!)
+[Open up the poster template](https://docs.google.com/presentation/d/1SBVHuiI5zEDDl6roP-38xzW15lMoT9bg59lxXvA0M0k/edit#slide=id.gfd030064e4_0_41). Duplicate the poster (slide 2) template on the next page: Right click + select ‘Duplicate slide’ (Please don’t edit the template - keep slide 2 generic so others can use it!)
 
 Populate the duplicate slide with your own content (check the other posters from this slideshow for ideas)
 
