@@ -160,11 +160,9 @@
   description: "This three-hour hands-on tutorial teaches the fundamentals of using Linux and High Performance Computing, using the NCI Gadi HPC system."
 -
   id: 241
-  title: "Mapping the National Web: Tools and Approaches"
-  speakers: [ 21, 69 ]
-  subtype: workshop
-  registerUrl: https://www.eventbrite.com.au/e/191404685567
-  description: "National web is a series of interlinked online spaces generated and visited by users who share a common national identity, language, and/or interest in a particular country. A wealth of textual and visual data, produced in the process of mediated communication among networked actors, turn social media into an entry point for mapping national webs. Exploring hyperlinking behaviours among actors of interest in this space allows to identify key events and issues that drive mobilisation among the networked publics, as well as map distinct web spheres that mediate online users’ relationships to various local, national, and transnational entities. This workshop offers a combination of qualitative and computational methods to map the national web and would be of interest to those studying cross-platform mobilisation in a variety of contexts, including social movements, migration and diasporas, influence operations and disinformation campaigns, among others."
+  title: ""
+  subtype: tbc
+  speakers: [ ]
 -
   id: 251
   title: "Surveying with Qualtrics"
@@ -222,7 +220,7 @@
   title: "FAIMS 3.0: Electronic Field Notebooks project"
   subtype: presentation
   description: "The Field Acquired Information Management Systems (FAIMS) Mobile Platform is open-source software for offline data collection built by researchers for researchers. First released in 2014 for Android only, the platform is currently undergoing a complete rebuild thanks to the Australian  Research Data Commons (ARDC) and co-investment from 19 partners (doi:10.47486/PL110). From June 2022, FAIMS 3.0 will support cross-platform data collection (Android, iOS and  desktop), offer more flexible synchronisation, integration with Cloudstor, a DIY option for customisation, and a sleek new look. In this talk, we will provide an introduction to the proposed software, the design choices we have made and the challenges of building complex software for the research sector from within it."
-  speakers: [ 55 ]
+  speakers: [ 55, 78 ]
 -
   id: 216
   title: "What is Deep Learning / ML4AU Community"
@@ -291,7 +289,6 @@
   speakers: [ 34, 68 ]
   subtype: workshop
   description: "Does your research see you working through unstructured and non-numerical data? With the ability to collect, store and analyse different data types all in one location makes, it’s easy to see why NVivo is becoming the tool of choice for many researchers."
-  registerUrl: https://www.eventbrite.com.au/e/191419038497
 -
   id: 3511
   title: "Extracting and Transforming/Preparing data with No Coding"
@@ -313,7 +310,7 @@
   title: "REDCap Showcase"
   subtype: presentation
   description: "This presentation will demonstrate a number of in-flight research projects using an extensive REDCap feature set, such as randomisation, advanced reporting (e.g., enrolment tracking) and automated notifications via email and SMS. It will be a great opportunity to be inspired by a range of advanced REDCap features that enable real-life research projects."
-  speakers: [ 7, 42, 70 ]
+  speakers: [ 7, 8, 70 ]
 -
   id: 302
   title: "Lunch break"
