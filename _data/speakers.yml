@@ -417,7 +417,8 @@
   surname: "Hillenbrand"
   honorific: "A/Prof"
   institution: "UNSW"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  bio: "Claudia is the Director of Research Imaging New South Wales. She is an experienced MR scientist developing novel MRI sequences and translating these into clinical application. She has worked on over 20 prospective clinical research studies or trials that investigated MRI for diagnosis, and assessment of therapy, as well as late effects of treatment for cancer and other catastrophic illnesses. She is a world-renowned expert on MR-based liver iron quantification. Her work has been published in >70 peer-reviewed journal papers, 2 books and 4 book chapters."
+  thumbnailUrl: "ClaudiaHillenbrand.jpg"
 -
   id: 52
   name: "Anusuriya"
@@ -636,3 +637,9 @@
   social:
     name: "twitter"
     link: "https://twitter.com/snet_jklump"
+-
+  id: 79
+  name: "David"
+  surname: "Flanagan"
+  honorific: "Dr"
+  institution: "UNSW, Sydney Childrens' and Prince of Wales Hospital"

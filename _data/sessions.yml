@@ -48,7 +48,6 @@
   id: 151
   title: "Data Capture and Surveys with REDCap"
   subtype: workshop
-  registerUrl: https://www.eventbrite.com.au/e/191391415877
   description: "Learn about building an electronic data capture form, enabling survey settings, simple longitudinal project setup and access provisions"
   speakers: [ 7, 8, 9, 70 ]
 -
@@ -109,9 +108,10 @@
   description: "This presentation will examine crowdsourcing or citizen science - that is involving public volunteers in the completion of research tasks - as a method in the digital humanities. It will draw on my experiences in two such crowdsourcing projects, The Prosecution Project (https://prosecutionproject.griffith.edu.au/) and Criminal Characters (https://prosecutionproject.griffith.edu.au/). Topics covered will include rationale and ethics of crowdsourcing, platforms available for building projects, how to motivate volunteers and sharing the resulting research and data with the public."
 -
   id: 1541
-  title: ""
-  subtype: tbc
-  speakers: [  ]
+  title: "Research Imaging New South Wales Showcase"
+  subtype: presentation
+  speakers: [ 51, 79 ]
+  description: "Research Imaging New South Wales (RINSW) is a strategic initiative developed by UNSW in collaboration with the South Eastern Sydney Local Health District. This facility for human imaging, located in the Prince of Wales Hospital, is providing researchers with state-of-the-art imaging capabilities for world-class basic, translational and clinical imaging research. This presentation will introduce the imaging facility and highlight data capturing from meta data to images, data storage, and processing pipelines including hospital vs. research electronic medical record (EMR) keeping and picture archiving systems (PACS). The entire data collection and analysis workflow will be demonstrated for identifying unspecified foci of epileptic seizures."
 -
   id: 1442
   title: ""
@@ -156,7 +156,6 @@
   title: "Introduction to Linux and High Performance Computing"
   speakers: [ 20, 72, 73, 74 ]
   subtype: workshop
-  registerUrl: https://www.eventbrite.com.au/e/185375752867
   description: "This three-hour hands-on tutorial teaches the fundamentals of using Linux and High Performance Computing, using the NCI Gadi HPC system."
 -
   id: 241
