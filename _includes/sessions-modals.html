@@ -24,7 +24,7 @@
 						</div>
 						{% endif %}
 						<p class="theme-description">{{ session.description }}</p>
-						{% if session.subtype == "workshop" %}
+						{% if session.subtype == "workshop" and session.registerUrl != null %}
 						<p class="theme-metadata"><strong>Note:</strong> workshops are not covered by general registration and places for workshops are limited. <strong><a href="{{ session.registerUrl }}" target="_blank">Register your interest here.</a></strong></p>
                         {% endif %}
 						{% if session.presentation %}
@@ -67,6 +67,16 @@
 									{% endif %}
 								{% endfor %}
 							{% endfor %}
+							{% if session.logo != null %}
+									<div class="row">
+										<div class="col-md-2 col-sm-2">
+										</div>
+										<div class="col-md-10 col-sm-10 details">
+											<a href="{{ session.logoUrl }}" target="_blank"><img class="logo-img" src="{{ site.baseurl | append: '/img/people/' | append: session.logo }}" /></a>
+										</div>
+										</div>
+									</div>
+							{% endif %}
 						</div>
 					</div>
 				</div>

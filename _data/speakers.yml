@@ -16,7 +16,12 @@
   name: "Belinda"
   surname: "Fabian"
   institution: "Macquarie University"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  bio: "Belinda is a Project Officer for the ARC Centre of Excellence in Synthetic Biology and a PhD candidate at Macquarie University. Her research uses high-throughput genomics techniques to study beneficial bacteria that colonise plant roots. Belinda is certified Carpentries Instructor, an Advance HE Fellow, and is passionate about equipping students with useful skills for the workforce."
+  thumbnailUrl: "BelindaFabian.jpg"
+  orcid: "0000-0002-5707-4356"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/beacurious"
 -
   id: 4 
   name: "Marium"
@@ -35,7 +40,12 @@
   name: "Sara"
   surname: "King"
   institution: "AARNet"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  bio: "Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is currently working on creating reusable guidance information for Jupyter Notebooks and other AARNet services. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone."
+  social:
+    name: "twitter"
+    link: "https://twitter.com/sarasrking"  
+  thumbnailUrl: "SaraKing.jpg"
+  url: "https://www.aarnet.edu.au/"
 - 
   id: 7
   name: "David"
@@ -49,7 +59,12 @@
   name: "Aidan"
   surname: "Wilson"
   institution: "Intersect"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  orcid: "0000-0001-9858-5470"
+  bio: "Aidan Wilson is Intersect's eResearch Analyst for Australian Catholic University, where his role includes administration and user support for REDCap, Qualtrics, and a host of other research software applications. When he was a researcher himself, he studied the Aboriginal languages of Australia's top-end, and wrote his Master's thesis on Traditional Tiwi."
+  thumbnailUrl: "AidanWilson.jpg"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/aidanbwilson"
 - 
   id: 9
   name: "Weisi"
@@ -143,19 +158,7 @@
   orcid: "0000-0003-4504-1124"
   bio: "John Zaitseff has been using and programming computers since his primary school purchased its first in the early 1980s.  Having studied Computer Engineering at UNSW, he has been involved with the Free / Open Source Software movement and with Linux in particular since 1993.  He has been teaching others the joys of these technologies since 2014."
   url: "https://www.zap.org.au/~john/"
-  thumbnailUrl: "AvatarPlaceholder.png"
-- 
-  id: 21
-  name: "Olga"
-  surname: "Boichak"
-  institution: "University of Sydney"
-  thumbnailUrl: "OlgaBoichak.jpg"
-  orcid: "0000-0001-6547-2015"
-  bio: "Olga Boichak is a sociologist of media and culture and lecturer in Digital Cultures at the University of Sydney. She holds a Master of Public Administration and a PhD in Social Science from Syracuse University (USA), and her research interests span remote participation in military conflicts as well as networks, narratives, and cultures of activism in the digital age. Before joining the University of Sydney in 2019, Olga was a research assistant at the Center for Computational and Data Sciences (Syracuse University) and a visiting scholar at the Social Media Lab (Ryerson University, Canada). She is the Editor of the Digital War journal and her work has appeared, among others, in Big Data & Society, International Journal of Communication, Global Networks, Media, War & Conflict, and the Oxford Handbook of Sociology and Digital Media. In her free time, she enjoys running and spending time with her dachshunds, Penny and Lenny."
-  social:
-    name: "twitter"
-    link: "https://twitter.com/olgarithmic"
-  url: "https://doi.org/10.1111/glob.12342"
+  thumbnailUrl: "JohnZaitseff.jpg"
 - 
   id: 22
   name: "Jeff"
@@ -203,20 +206,27 @@
   surname: "Tang"
   institution: "Monash University"
   thumbnailUrl: "TitusTang.jpg"
-  orcid: 0000-0001-7496-1152
+  orcid: "0000-0001-7496-1152"
   bio: "Titus is a Deep Learning engineer and educator on the Monash Data Science and AI platform. He provides advice and hands-on assistance to researchers looking to apply deep learning and AI techniques to their research. Titus also leads various AI training events at Monash."
 -
   id: 27
   name: "Tarun"
   surname: "Bonu"
   institution: "Monash University"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  bio: "Tarun is a Machine learning engineer at the Data Science and AI platform, Monash University. He is the coordinator for the Machine Learning Community of Practice - ML4AU which explores issues, challenges and interests of user, training and practitioner communities. He involves himself in training events that enable researchers with data skills for effective research."
+  thumbnailUrl: "TarunBonu.png"
 -
   id: 28
   name: "Ann"
   surname: "Backhaus"
   institution: "Pawsey Supercomputing Centre"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  bio: "Ann Backhaus is the Education & Training Manager at the Pawsey Supercomputing Research Centre. Ann enjoys teaching and learning, and education outreach. She likes to experiment with learning modalities and platforms, and has experience in online and blended learning. Her experience spans numerous industries and sectors, including government, academia, enterprise, and technology."
+  thumbnailUrl: "AnnBackhaus.jpg"
+  url: "https://pawsey.org.au"
+  orcid: "0000-0002-9023-055X"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/BackhausAnn"
 -
   id: 29
   name: "Jingbo"
@@ -328,12 +338,6 @@
   bio: "Adrian W. Chew is an Adjunct Lecturer with the School of Education at UNSW Faculty of Arts, Design & Architecture. He is also the Academic Development Consultant leading the Institutional Underpinnings PAIC educational/training experience project across Bond University, University of New South Wales and University of Sydney."
 
 -
-  id: 42
-  name: "Aidan"
-  surname: "Wilson"
-  institution: "Intersect"
-  thumbnailUrl: "AvatarPlaceholder.png"
--
   id: 43
   name: "Fiona"
   surname: "Jones"
@@ -381,6 +385,7 @@
 -
   id: 48
   name: "Kat"
+  surname: "Redzikultsava"
   institution: "University of Sydney"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
@@ -401,7 +406,7 @@
   honorific: "A/Prof"
   bio: "Assoc. Prof. Abhay Kumar Singh is a leading researcher in Data Science with a strong focus on multidisciplinary research in financial risk modelling, econometrics, education, and data analytics. His expertise in the field of empirical research has been demonstrated through industry-funded research projects, high impact publications and research-informed teaching. His research has been published in numerous high impact research outlets, including high-quality ABDC ranked A/A* journals. Abhay is a big believer in open-source software and has been using R for statistical computing, data analytics, machine learning and quantitative research for over ten years. He is also the author of the book “R in Finance & Economics: A Beginner’s Guide” and has extensive experience in training early career and experienced researchers in empirical research and data analytics."
   institution: "Macquarie University"
-  thumbnailUrl: "AbhaySingh.png"
+  thumbnailUrl: "AbhaySingh.jpg"
   orcid: "0000-0002-3783-6325"
   social:
     name: "twitter"
@@ -412,7 +417,8 @@
   surname: "Hillenbrand"
   honorific: "A/Prof"
   institution: "UNSW"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  bio: "Claudia is the Director of Research Imaging New South Wales. She is an experienced MR scientist developing novel MRI sequences and translating these into clinical application. She has worked on over 20 prospective clinical research studies or trials that investigated MRI for diagnosis, and assessment of therapy, as well as late effects of treatment for cancer and other catastrophic illnesses. She is a world-renowned expert on MR-based liver iron quantification. Her work has been published in >70 peer-reviewed journal papers, 2 books and 4 book chapters."
+  thumbnailUrl: "ClaudiaHillenbrand.jpg"
 -
   id: 52
   name: "Anusuriya"
@@ -455,7 +461,7 @@
   orcid: 0000-0001-8509-7865
   url: "https://faims.edu.au/"
   bio: "Dr Penny Crook is a historical archaeologist who specialises in material-culture studies and digital data management. She is Co-Director of the FAIMS 3.0 project and was a founding member of the original FAIMS Leadership team between 2012 and 2014."
-  thumbnailUrl: "PennyCrook.png"
+  thumbnailUrl: "PennyCrook.jpg"
   social:
     name: "twitter"
     link: "https://twitter.com/pennyc1901"
@@ -479,7 +485,8 @@
   name: "Bradley"
   surname: "Horton"
   institution: "Mathworks"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  bio: "Bradley Horton is a member of the Academic Customer Success team at MathWorks, helping faculty members better utilize MATLAB and Simulink for education and research. Bradley has supported and consulted for clients on projects in process control engineering, power systems simulation, military operations research, and earthquake impact modelling. Before joining MathWorks, Brad spent 5 years as a systems engineer with the Defence Science & Technology Organisation (DSTO) working as an operations research analyst. Bradley holds a B.Eng. in Mechanical engineering and a B.Sc. in Applied mathematics."
+  thumbnailUrl: "BradleyHorton.jpg"
 -
   id: 59
   name: "José"
@@ -511,7 +518,7 @@
   institution: "UNSW"
   thumbnailUrl: "GordanaPopovic.jpg"
   orcid: "0000-0002-1376-1058"
-  bio: "I am a statistical consultant at Stats Central UNSW. I spend my time training researchers in statistical methods and helping them with their statistics."
+  bio: "I am a statistical consultant at UNSW Stats Central. I spend my time training researchers in statistical methods and helping them with their statistics."
   social:
     name: "twitter"
     link: "https://twitter.com/GordyPopovic"
@@ -532,11 +539,6 @@
   surname: "Nunez"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
-  id: 64
-  name: "Harshad"
-  surname: "Ranadive"
-  thumbnailUrl: "AvatarPlaceholder.png"
--
   id: 65
   name: "Junming"
   surname: "Ho"
@@ -545,16 +547,19 @@
   id: 66
   name: "Samaneh Sadat"
   surname: "Setayandeh"
+  institution: ""
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 67
   name: "Charlotte"
   surname: "Page"
+  institution: "UNSW"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 68
   name: "Natalie"
   surname: "Wall"
+  institution: "University of Newcastle"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 69
@@ -571,6 +576,7 @@
   id: 70
   name: "Olya"
   surname: "Ryjenko"
+  institution: "University of Sydney"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 71
@@ -583,6 +589,7 @@
   id: 72
   name: "David"
   surname: "McFarlane"
+  institution: "UNSW"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 73
@@ -594,6 +601,7 @@
   id: 74
   name: "Svetlana"
   surname: "Tkachenko"
+  institution: "UNSW"  
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 75
@@ -611,4 +619,27 @@
   name: "Michael"
   surname: "Falk"
   institution: "University of Sydney"
+  bio: "Michael Falk is Community Technical Adviser at Heurist. He works with Humanities researchers around the world to design their research databases and build beautiful websites to reach a wider audience with their work. By training he is a literary scholar, with particular interests in distant reading and the early modern literatures of the Indo-Pacific."
+  thumbnailUrl: "MichaelFalk.jpg"
+-
+  id: 77
+  name: "Duncan"
+  surname: "Smith"
   thumbnailUrl: "AvatarPlaceholder.png"
+-
+  id: 78
+  name: "Jens"
+  surname: "Klump"
+  bio: "Jens Klump is a geochemist by training and leads the Exploration Through Cover Group in CSIRO Mineral Resources based in Perth, Western Australia. In his work on data infrastructures, Jens covers the entire chain of digital value creation from data acquisition to data analysis with a focus on data in minerals exploration. This includes automated data and metadata capture, sensor data integration, both in the field and in the laboratory, data processing workflows, and data provenance, but also data analysis by statistical methods, machine learning and numerical modelling."
+  thumbnailUrl: "JensKlump.jpg"
+  orcid: "0000-0001-5911-6022"
+  url: "https://faims.edu.au/"
+  social:
+    name: "twitter"
+    link: "https://twitter.com/snet_jklump"
+-
+  id: 79
+  name: "David"
+  surname: "Flanagan"
+  honorific: "Dr"
+  institution: "UNSW, Sydney Childrens' and Prince of Wales Hospital"
