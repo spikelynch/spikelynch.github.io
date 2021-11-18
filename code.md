@@ -10,9 +10,9 @@ Coming to ResBaz? Please read our policies (recording, reporting and anti-harass
 
 #### Policies and Code of Conduct
 
-Throughout these policies, we refers to the Research Bazaar team of volunteers.
+Throughout these policies, we refers to the Research Bazaar team of volunteers. This includes mebmers of the organising committee, workshop instructors and helpers, session facilitators and background technical hosts.
 
-By registering to attend a workshop or presentation at the Research Bazaar, **you agree to be bound by these policies and Code of Conduct.**
+By registering to attend a workshop or presentation at the Sydney Research Bazaar, **you agree to be bound by these policies and Code of Conduct.**
 
 
 #### Code of Conduct
@@ -31,7 +31,7 @@ The Research Bazaar is a learning environment where everyone is welcome. It’s 
 
 #### Recording policy
 
-Due to registration limits on some of the computational workshops, we will be recording some of the online workshops and making them available via this website to view after the event.
+We will record all presentations and keystory talks offered through the general registration program. We intend to publish these recordings and any slides together after the event, and make them available through this website. Workshops will not be recorded.
 
 #### Reporting/blogging/social media policy
 
@@ -65,12 +65,12 @@ Harassment includes:
 * inappropriate physical contact
 * unwelcome sexual attention.
 
-Participants asked to stop any harassing behaviors are expected to comply immediately. Any member of the Research Bazaar staff can issue a verbal warning to a participant that their behaviour violates the conference’s anti-harassment policy. A record of complaints received and warnings issued will be maintained to enable any repeat offenders to be identified.
+Participants asked to stop any harassing behaviors are expected to comply immediately. Any member of the Research Bazaar volunteer team can issue a verbal warning to a participant that their behaviour violates the conference’s anti-harassment policy. A record of complaints received and warnings issued will be maintained to enable any repeat offenders to be identified.
 
 If a participant engages in harassing behaviors, the workshop moderator may take any action they deem appropriate, including warning the offender or expulsion from the event.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the workshop moderator immediately. If you are being harassed by a workshop moderator or otherwise don’t feel safe reporting to them, please contact resbazsyd@gmail.com.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the ResBaz volunteer team immediately. If you are being harassed by a workshop moderator or otherwise don’t feel safe reporting to them, please use our [Code of Conduct incident report form](https://docs.google.com/forms/d/e/1FAIpQLSdFB3GBmdqTVGy_snvnOWYLo_NM5qpIy3opPYu9R4QipboBsw/viewform?usp=sf_link). The ResBaz Sydney Code of Conduct Subcommittee will follow up promptly.
 
-Workshop moderators will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+ResBaz volunteers will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
-We value your attendance. We expect participants to follow these rules at the Research Bazaar venue, any related social events, and online forums.
+We value your attendance. We expect participants to follow these rules in any Research Bazaar venue in person or online.
