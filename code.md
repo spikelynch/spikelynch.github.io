@@ -10,7 +10,7 @@ Coming to ResBaz? Please read our policies (recording, reporting and anti-harass
 
 #### Policies and Code of Conduct
 
-Throughout these policies, we refers to the Research Bazaar team of volunteers. This includes mebmers of the organising committee, workshop instructors and helpers, session facilitators and background technical hosts.
+Throughout these policies, we refers to the Research Bazaar team of volunteers. This includes members of the organising committee, workshop instructors and helpers, session facilitators and background technical hosts.
 
 By registering to attend a workshop or presentation at the Sydney Research Bazaar, **you agree to be bound by these policies and Code of Conduct.**
 
