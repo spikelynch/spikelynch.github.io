@@ -220,7 +220,7 @@
   name: "Ann"
   surname: "Backhaus"
   institution: "Pawsey Supercomputing Centre"
-  bio: "Ann Backhaus is the Education & Training Manager at the Pawsey Supercomputing Research Centre. Ann enjoys teaching and learning, and education outreach. She likes to experiment with learning modalities and platforms, and has experience in online and blended learning. Her experience spans numerous industries and sectors, including government, academia, enterprise, and technology."
+  bio: "Ann Backhaus is the Education & Training Manager at the Pawsey Supercomputing Research Centre. Ann has significant experience in adult teaching and learning, and project and program management. She has led distributed, global teaching & learning teams strategically and operationally, using a variety of modalities and training / enablement materials. Her experience spans numerous industries and domains."
   thumbnailUrl: "AnnBackhaus.jpg"
   url: "https://pawsey.org.au"
   orcid: "0000-0002-9023-055X"
@@ -234,12 +234,6 @@
   institution: "NCI Australia"
   thumbnailUrl: "JingboWang.jpg"
   bio: "I am a geophysicist with expertise in numerical research, statistical analysis, and computational methods for simulation of earth science systems. With solid science and computational background, I am passionate to use data to get insights of the scientific problems. My research interests include designing data architecture and services to advance research support, building research metadata ecosystem to get insights on research networking, using AI tools to explore research topics and trends by analyzing rich publication literature to get the overview of research landscape in various areas."
--
-  id: 30
-  name: "Sean"
-  surname: "Grady"
-  institution: "Intersect"
-  thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 31
   name: "Taren"
@@ -417,7 +411,7 @@
   surname: "Hillenbrand"
   honorific: "A/Prof"
   institution: "UNSW"
-  bio: "Claudia is the Director of Research Imaging New South Wales. She is an experienced MR scientist developing novel MRI sequences and translating these into clinical application. She has worked on over 20 prospective clinical research studies or trials that investigated MRI for diagnosis, and assessment of therapy, as well as late effects of treatment for cancer and other catastrophic illnesses. She is a world-renowned expert on MR-based liver iron quantification. Her work has been published in >70 peer-reviewed journal papers, 2 books and 4 book chapters."
+  bio: "Claudia is the Director of Research Imaging New South Wales. She is an experienced MR scientist developing novel MRI sequences and translating these into clinical application. She has worked on over 30 prospective clinical research studies or trials that investigated MRI for diagnosis, and assessment of therapy, as well as late effects of treatment for cancer and other catastrophic illnesses. She is a renowned expert on MR-based liver iron quantification. Her work has been published in >70 peer-reviewed journal papers, 2 books and 4 book chapters."
   thumbnailUrl: "ClaudiaHillenbrand.jpg"
 -
   id: 52
@@ -469,7 +463,7 @@
   id: 56
   name: "Siddeswara"
   surname: "Guru"
-  institution: "University of Queensland"
+  institution: "TERN"
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 57
@@ -542,12 +536,15 @@
   id: 65
   name: "Junming"
   surname: "Ho"
+  institution: "UNSW"
+  bio: "Junming Ho is a Senior Lecturer in the School of Chemistry in UNSW. He leads the Modelling and Mechanism Group which specialises in using computational chemistry simulations to design new catalysts and drug molecules."
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 66
   name: "Samaneh Sadat"
   surname: "Setayandeh"
-  institution: ""
+  institution: "UNSW"
+  bio: "Samaneh Sadat Setayandeh is currently a postdoctoral researcher at UNSW. She is focusing on atomic scale simulations of tungsten borides and other advanced ceramics. The majority of the work in Samaneh’s PhD - in Condensed Matter Physics from Griffith University - was ab initio calculations on the Pd-H2 system, using Quantum Espresso to calculate electron, phonon and superconductivity properties."
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 67
@@ -625,6 +622,8 @@
   id: 77
   name: "Duncan"
   surname: "Smith"
+  institution: "UNSW"
+  bio: "Duncan Smith is a member of Research Technology Services at UNSW and has been heavily involved with the on-campus computational cluster Katana since its inception."
   thumbnailUrl: "AvatarPlaceholder.png"
 -
   id: 78
@@ -639,7 +638,20 @@
     link: "https://twitter.com/snet_jklump"
 -
   id: 79
-  name: "David"
+  name: "Daniel"
   surname: "Flanagan"
   honorific: "Dr"
   institution: "UNSW, Sydney Childrens' and Prince of Wales Hospital"
+-
+  id: 80
+  name: "Ivan"
+  surname: "Hanigan"
+  honorific: "Dr"
+  institution: "University of Sydney"
+-
+  id: 81
+  name: "Felipe"
+  surname: "Ayora"
+  thumbnailUrl: "FelipeAyora.png"
+  institution: "BizData"
+  bio: "Felipe is the Director for Research and Advanced Computing at BizData. He has over 20 years of experience solving complex technical problems for customers in research, education, health, financial services, oil and gas, and other industries. Before BizData, Felipe had a career of almost 15 years with Microsoft, more recently with the Azure HPC Engineering team at Microsoft."

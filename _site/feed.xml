@@ -3,8 +3,8 @@
   <channel>
     <title>ResBaz Sydney 2021</title>
     <description>A conference promoting digital literacy and skill-sharing for researchers</description>
-    <link>https://resbaz.github.io/resbaz2021/sydney/</link>
-    <atom:link href="https://resbaz.github.io/resbaz2021/sydney/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/resbaz2021/sydney/</link>
+    <atom:link href="http://localhost:4000/resbaz2021/sydney/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Conference posters, but better!</title>
@@ -20,8 +20,8 @@ encourage everyone involved to make a poster talking about the digital tools you
 Instead, we’re hosting a poster gallery in the daily gathertown space. Be sure to &lt;a href=&quot;https://www.eventbrite.com.au/e/resbaz-sydney-2021-tickets-169068026017&quot;&gt;register for ResBaz&lt;/a&gt;, and we’ll send you the gathertown link where you can check out each other’s posters.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Nov 2021 11:00:00 +1100</pubDate>
-        <link>https://resbaz.github.io/resbaz2021/sydney/news/posters</link>
-        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/posters</guid>
+        <link>http://localhost:4000/resbaz2021/sydney/news/posters</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2021/sydney/news/posters</guid>
       </item>
     
       <item>
@@ -37,8 +37,8 @@ Opening up to broader participation (for example, across NSW) is a great opportu
 &lt;p&gt;Use the links in the &lt;a href=&quot;https://resbaz.github.io/resbaz2021/sydney/program/&quot;&gt;program&lt;/a&gt; to sign up to individual workshops. We’ll release tickets in early November. Make sure you use the same email address for all workshops and don’t forget the general registration ticket!&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Oct 2021 11:00:00 +1100</pubDate>
-        <link>https://resbaz.github.io/resbaz2021/sydney/news/ResBaz-Workshops</link>
-        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/ResBaz-Workshops</guid>
+        <link>http://localhost:4000/resbaz2021/sydney/news/ResBaz-Workshops</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2021/sydney/news/ResBaz-Workshops</guid>
       </item>
     
       <item>
@@ -58,8 +58,8 @@ Opening up to broader participation (for example, across NSW) is a great opportu
 &lt;p&gt;So what are you waiting for? Check out the &lt;a href=&quot;https://resbaz.github.io/resbaz2021/sydney/program/&quot;&gt;program&lt;/a&gt; and &lt;a href=&quot;https://www.eventbrite.com.au/e/resbaz-sydney-2021-tickets-169068026017&quot;&gt;join us&lt;/a&gt;!&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Oct 2021 11:00:00 +1100</pubDate>
-        <link>https://resbaz.github.io/resbaz2021/sydney/news/registrations-open</link>
-        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/registrations-open</guid>
+        <link>http://localhost:4000/resbaz2021/sydney/news/registrations-open</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2021/sydney/news/registrations-open</guid>
       </item>
     
       <item>
@@ -71,8 +71,8 @@ Opening up to broader participation (for example, across NSW) is a great opportu
 &lt;p&gt;ResBaz is actually brought to you by people who run hacky hours on the regular, so we wanted to include this in our program. Each afternoon at ResBaz from 3-4pm AEDT, we’ll open the doors to our &lt;a href=&quot;https://gather.town/app&quot;&gt;gather.town&lt;/a&gt; space so you can join in, and rock up to any of the hacky hour tables. Gather.town is a very cute interactive platform that looks like you’re in an 8-bit video game, inside a 1980s style conference venue. You can customise your avatar and walk around a map. When you’re near other people, gather turns on your video and mic so you can chat. Like a video game/conference IRL, you can choose where to go, no need for any breakout room choreography! We hope it will be a fun way to end each day, where you can meet other ResBazzers, chat about favourite tools, follow up with an interesting speaker, and ask the friendly support folk to troubleshoot your code.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Oct 2021 11:00:00 +1100</pubDate>
-        <link>https://resbaz.github.io/resbaz2021/sydney/news/hacky-hour</link>
-        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/hacky-hour</guid>
+        <link>http://localhost:4000/resbaz2021/sydney/news/hacky-hour</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2021/sydney/news/hacky-hour</guid>
       </item>
     
       <item>
@@ -84,8 +84,8 @@ Opening up to broader participation (for example, across NSW) is a great opportu
 &lt;p&gt;We think that the best way to prepare you for contributing to ResBaz is to introduce you to this friendly community, share useful tips and tricks, and get to know a few familiar faces ahead of the main event. &lt;a href=&quot;https://www.eventbrite.com.au/e/carpentry-connect-australia-tickets-170400229674&quot;&gt;Please sign up here.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Sep 2021 10:00:00 +1000</pubDate>
-        <link>https://resbaz.github.io/resbaz2021/sydney/news/teaching-online</link>
-        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/teaching-online</guid>
+        <link>http://localhost:4000/resbaz2021/sydney/news/teaching-online</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2021/sydney/news/teaching-online</guid>
       </item>
     
       <item>
@@ -93,8 +93,8 @@ Opening up to broader participation (for example, across NSW) is a great opportu
         <description>&lt;p&gt;And we’re live! Despite the current lockdown, the team at ResBaz Sydney are very excited to be announcing our intentions to host a virtual ResBaz at the end of this year. Right now, we’re working on our program structure to make sure we retain the best of ResBaz community while running a virtual event. We’ve had a year of ‘pivoting online’ and ‘you’re on mute’ so honestly, the only way is up. Once our social infrastructure is confirmed, we’ll be putting out the word for volunteers to join in the fun. Submit a talk, offer to run a workshop, host a discussion panel or join us as a ResBazador!&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Jun 2021 18:00:00 +1000</pubDate>
-        <link>https://resbaz.github.io/resbaz2021/sydney/news/live</link>
-        <guid isPermaLink="true">https://resbaz.github.io/resbaz2021/sydney/news/live</guid>
+        <link>http://localhost:4000/resbaz2021/sydney/news/live</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2021/sydney/news/live</guid>
       </item>
     
   </channel>
