@@ -130,9 +130,9 @@
   service: true
 -
   id: 105
-  title: "Hacky Hour in gather.town"
+  title: "Hacky Hour in Gather.town"
   subtype: social
-  description: "A social space for posters, networking and troubleshooting"
+  description: "A <a href=\"../assets/ResBazGatherTown.pdf\">dedicated Gather.town space</a> for posters, networking and troubleshooting. Each day from 3-4pm we will be holding Hacky Hour in this space where you and other ResBaz attendees can ask, discuss and share your research ideas and problems with each other."
 -
   id: 201
   title: "Key Story 2: Simple Steps to Effective Scientific Data Sharing"
@@ -244,9 +244,9 @@
   service: true
 -
   id: 205
-  title: "Hacky Hour in gather.town"
+  title: "Hacky Hour in Gather.town"
   subtype: social
-  description: "A social space for posters, networking and troubleshooting"
+  description: "A <a href=\"../assets/ResBazGatherTown.pdf\">dedicated Gather.town space</a> for posters, networking and troubleshooting. Each day from 3-4pm we will be holding Hacky Hour in this space where you and other ResBaz attendees can ask, discuss and share your research ideas and problems with each other."
 -
   id: 301
   title: "How We Do Reproducible Research"
@@ -394,6 +394,6 @@
   speakers: [ 76 ]
 -
   id: 307
-  title: "Hacky Hour in gather.town"
+  title: "Hacky Hour in Gather.town"
   subtype: social
-  description: "A social space for posters, networking and troubleshooting"
+  description: "A <a href=\"../assets/ResBazGatherTown.pdf\">dedicated Gather.town space</a> for posters, networking and troubleshooting. Each day from 3-4pm we will be holding Hacky Hour in this space where you and other ResBaz attendees can ask, discuss and share your research ideas and problems with each other."
