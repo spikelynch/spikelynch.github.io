@@ -6,7 +6,7 @@
   speakers: [ 62 ]
 -
   id: 102
-  title: "Key Story 1: Epiwatch/AI"
+  title: "Key Story: Epiwatch/AI"
   subtype: presentation
   description: "The EPIWATCH (TM) ‘Global Eye’ monitors a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting using over 25 global languages including the major languages of Asia. We can tap into chatter in communities and local news reports to find out about outbreaks long before health officials are notified."
   speakers: [ 19 ]
@@ -135,7 +135,7 @@
   description: "A <a href=\"../assets/ResBazGatherTown.pdf\">dedicated Gather.town space</a> for posters, networking and troubleshooting. Each day from 3-4pm we will be holding Hacky Hour in this space where you and other ResBaz attendees can ask, discuss and share your research ideas and problems with each other."
 -
   id: 201
-  title: "Key Story 2: Simple Steps to Effective Scientific Data Sharing"
+  title: "Key Story: Simple Steps to Effective Scientific Data Sharing"
   description: "Data is an important research asset for the reproducibility of scientific results. However, researchers are often trapped in data sharing dilemmas caused due to several factors such as lack of awareness and support programs, variation in data sharing practices, privacy concerns, and discrepancies in incentives to collaborate around data between data creators, service providers, and users. This presentation will cover a set of simple steps to help researchers share their data effectively through open data repositories.  These steps are derived from my professional experience in provisioning and consuming research datasets over the last 15 years. They are based on generally applicable data characteristics and can be potentially applied at different stages of the research data lifecycle."
   subtype: presentation
   speakers: [ 52 ]
@@ -229,13 +229,13 @@
 -
   id: 236
   title: "Introduction to NCI and Pawsey"
-  speakers: [ 28, 29 ]
-  description: "NCI is one of the tier 1 national supercomputer facility. Gadi is Australia’s most powerful supercomputer, a highly parallel cluster comprising more than 150,000 processor cores on ten different types of compute nodes. Gadi accommodates a wide range of tasks, from running climate models to genome sequencing, from designing molecules to astrophysical modelling. Jingbo will introduce services of NCI and the fascinating research work supported by Gadi.<br />The Pawsey Supercomputing Research Centre is a tier 1 publicly funded national supercomputing Centre, located in Perth. The Centre provides free access to supercomputing, data, visualisation and cloud infrastructure and expertise. We just welcomed Australia’s new supercomputer Setonix, scheduled to deliver 50 petaFLOPS of compute power for Australian researchers. We have proudly supported Australian researchers on a vast array of projects, from developing new tools to assess patient risk with machine learning, to guiding the experimental development of safe, long-life, high-capacity rechargeable batteries, to underpinning research that helps protect vulnerable species, including the Quokka, to playing a key role in creating a new atlas of the Universe. And we continue to empower students by building their capacity in data literacy. Ann will present the opportunities Pawsey has to offer to your research project and introduce you our new supercomputer, Setonix, an HPE Cray EX system built on the same architecture used in world-leading exascale supercomputer projects. Setonix will include more than 200,000 AMD compute cores across 1600 nodes, over 750 next-generation AMD GPUs, and more than 548 TB of CPU and GPU RAM, connected by HPE’s Slingshot interconnect."
+  speakers: [ 28, 82 ]
+  description: "NCI is one of the tier 1 national supercomputer facility. Gadi is Australia’s most powerful supercomputer, a highly parallel cluster comprising more than 150,000 processor cores on ten different types of compute nodes. Gadi accommodates a wide range of tasks, from running climate models to genome sequencing, from designing molecules to astrophysical modelling.<br />The Pawsey Supercomputing Research Centre is a tier 1 publicly funded national supercomputing Centre, located in Perth. The Centre provides free access to supercomputing, data, visualisation and cloud infrastructure and expertise. We just welcomed Australia’s new supercomputer Setonix, scheduled to deliver 50 petaFLOPS of compute power for Australian researchers. We have proudly supported Australian researchers on a vast array of projects, from developing new tools to assess patient risk with machine learning, to guiding the experimental development of safe, long-life, high-capacity rechargeable batteries, to underpinning research that helps protect vulnerable species, including the Quokka, to playing a key role in creating a new atlas of the Universe. And we continue to empower students by building their capacity in data literacy. Ann will present the opportunities Pawsey has to offer to your research project and introduce you our new supercomputer, Setonix, an HPE Cray EX system built on the same architecture used in world-leading exascale supercomputer projects. Setonix will include more than 200,000 AMD compute cores across 1600 nodes, over 750 next-generation AMD GPUs, and more than 548 TB of CPU and GPU RAM, connected by HPE’s Slingshot interconnect."
   subtype: presentation
 -
   id: 246
   title: "Survey Tools in Research: REDCap and Qualtrics"
-  speakers: [ 8, 9 ]
+  speakers: [ 8, 22, 83 ]
   subtype: presentation
 -
   id: 237
@@ -249,7 +249,7 @@
   description: "A <a href=\"../assets/ResBazGatherTown.pdf\">dedicated Gather.town space</a> for posters, networking and troubleshooting. Each day from 3-4pm we will be holding Hacky Hour in this space where you and other ResBaz attendees can ask, discuss and share your research ideas and problems with each other."
 -
   id: 301
-  title: "How We Do Reproducible Research"
+  title: "Key Story: How We Do Reproducible Research"
   subtype: presentation
   speakers: [ 31, 32 ]
   description: "We are all told research must be reproducible. Reproducible research is key to the development of more transparent science, where research can be conducted quickly and rigorously. But how do you put this into action? In this talk we discuss the basic principles that underlie our approach to reproducible research and how we implement them. We will demonstrate some of the tools that we use to build a workflow, and show you how you could apply these to your research.We also discuss the challenges we have and where we want to go next (we look forward to your suggestions)."
@@ -326,7 +326,6 @@
   id: 314
   title: "Technical Computing with MATLAB"
   subtype: workshop
-  registerUrl: https://www.eventbrite.com.au/e/181450371947
   speakers: [ 58 ]
 -
   id: 334

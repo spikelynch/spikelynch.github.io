@@ -9,7 +9,7 @@
     - {title: "Survey & Data Collection",     color: "#583595"}
   timeslots:
     - {
-    	startTime: "9:00",
+    	startTime: "9:15",
     	endTime:   "9:30",
     	sessionIds: [ 101 ],
       cols: [ 5 ]

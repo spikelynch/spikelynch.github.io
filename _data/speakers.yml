@@ -228,13 +228,6 @@
     name: "twitter"
     link: "https://twitter.com/BackhausAnn"
 -
-  id: 29
-  name: "Jingbo"
-  surname: "Wang"
-  institution: "NCI Australia"
-  thumbnailUrl: "JingboWang.jpg"
-  bio: "I am a geophysicist with expertise in numerical research, statistical analysis, and computational methods for simulation of earth science systems. With solid science and computational background, I am passionate to use data to get insights of the scientific problems. My research interests include designing data architecture and services to advance research support, building research metadata ecosystem to get insights on research networking, using AI tools to explore research topics and trends by analyzing rich publication literature to get the overview of research landscape in various areas."
--
   id: 31
   name: "Taren"
   surname: "Sanders"
@@ -574,7 +567,8 @@
   name: "Olya"
   surname: "Ryjenko"
   institution: "University of Sydney"
-  thumbnailUrl: "AvatarPlaceholder.png"
+  bio: "Olya leads the data team in the University of Sydney's clinical trials support office. Her work includes supporting clinical trials researchers in meeting regulatory and governance requirements for managing their data. Prior to working in research support, Olya was a researcher herself, wearing multiple hats as clinical trials coordinator, data manager and clinician in the discipline of speech pathology."
+  thumbnailUrl: "OlyaRyjenko.jpg"
 -
   id: 71
   name: "Tim"
@@ -655,3 +649,15 @@
   thumbnailUrl: "FelipeAyora.png"
   institution: "BizData"
   bio: "Felipe is the Director for Research and Advanced Computing at BizData. He has over 20 years of experience solving complex technical problems for customers in research, education, health, financial services, oil and gas, and other industries. Before BizData, Felipe had a career of almost 15 years with Microsoft, more recently with the Azure HPC Engineering team at Microsoft."
+- 
+  id: 82
+  name: "Chris"
+  surname: "Wilkinson"
+  thumbnailUrl: "ChrisWilkinson.jpg"
+  institution: "NCI Australia"
+  bio: "Chris Wilkinson has a background in journalism and media production and has been with NCI Australia for over five years. First and foremost a storyteller, Chris translates the incredible scientific achievements made possible by high-performance computing and data services in Australia and shares these amazing stories with the world through moving images, research highlights and other media."
+-
+  id: 83
+  name: "Sam"
+  surname: "Ryan"
+  institution: "Intersect"
